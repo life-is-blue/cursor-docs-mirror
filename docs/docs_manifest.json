@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T16:37:11Z",
+  "generated_at": "2026-08-23T17:23:41Z",
   "tool": "scripts/fetch_cursor_docs.py",
-  "strict_fetch": true,
+  "strict_fetch": false,
   "is_degraded": false,
   "sources": [
     {
@@ -16,12 +16,10 @@
   "summary_file": "docs/SUMMARY.md",
   "stats": {
     "total_pages": 215,
-    "successful_pages": 215,
-    "failed_pages": 0,
+    "synced_pages": 215,
     "removed_files": 0,
     "invariants_passed": true
   },
-  "failed": [],
   "files": {
     "cursor/account/enterprise/billing-groups.md": {
       "source": "cursor",
@@ -203,7 +201,7 @@
       "sha256": "21a95dfe4f49ee1c8aec727f7a799559f78ca14783f45b2be3748479b35d6a9f",
       "bytes": 2555,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Debug Mode"
+      "sidebar_label": "Debugging"
     },
     "cursor/agent/design-mode.md": {
       "source": "cursor",
@@ -245,7 +243,7 @@
       "sha256": "7735fd1b71f5d6bb4316369d79d577318ae97208d7edc9860eb47b596ca883b8",
       "bytes": 1920,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Plan Mode"
+      "sidebar_label": "Planning"
     },
     "cursor/agent/prompting.md": {
       "source": "cursor",
@@ -347,9 +345,9 @@
     },
     "cursor/approval-agents.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "approval-agents",
       "label": "PR Routing & Approval",
@@ -357,13 +355,13 @@
       "sha256": "02047408dfe471a4b3467563cffbb902af44f2a552576a2f73547748d386987e",
       "bytes": 6477,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Approval Agents"
+      "sidebar_label": "PR Routing & Approval"
     },
     "cursor/bugbot.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "bugbot",
       "label": "Bugbot",
@@ -375,9 +373,9 @@
     },
     "cursor/cli/acp.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/acp",
       "label": "ACP",
@@ -389,9 +387,9 @@
     },
     "cursor/cli/changelog.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/changelog",
       "label": "CLI Changelog",
@@ -405,7 +403,7 @@
       "source": "cursor",
       "section": "Headless",
       "category_path": [
-        "CLI Documentation",
+        "CLI",
         "Headless"
       ],
       "slug": "cli/github-actions",
@@ -418,9 +416,9 @@
     },
     "cursor/cli/headless.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/headless",
       "label": "Using Headless CLI",
@@ -428,13 +426,13 @@
       "sha256": "d767966f4e86012bce9e358c80c8a8e056d4ad0c8e73d74fd036d5acdf32a7af",
       "bytes": 7442,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Headless"
+      "sidebar_label": "Headless / CI"
     },
     "cursor/cli/installation.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/installation",
       "label": "Installation",
@@ -446,9 +444,9 @@
     },
     "cursor/cli/overview.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/overview",
       "label": "Cursor CLI",
@@ -460,9 +458,9 @@
     },
     "cursor/cli/reference/authentication.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/reference/authentication",
       "label": "Authentication",
@@ -474,9 +472,9 @@
     },
     "cursor/cli/reference/configuration.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/reference/configuration",
       "label": "Configuration",
@@ -490,7 +488,7 @@
       "source": "cursor",
       "section": "Reference",
       "category_path": [
-        "CLI Documentation",
+        "CLI",
         "Reference"
       ],
       "slug": "cli/reference/output-format",
@@ -503,9 +501,9 @@
     },
     "cursor/cli/reference/parameters.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/reference/parameters",
       "label": "Parameters",
@@ -517,9 +515,9 @@
     },
     "cursor/cli/reference/permissions.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/reference/permissions",
       "label": "Permissions",
@@ -531,9 +529,9 @@
     },
     "cursor/cli/reference/slash-commands.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/reference/slash-commands",
       "label": "Slash commands",
@@ -547,7 +545,7 @@
       "source": "cursor",
       "section": "Reference",
       "category_path": [
-        "CLI Documentation",
+        "CLI",
         "Reference"
       ],
       "slug": "cli/reference/terminal-setup",
@@ -560,9 +558,9 @@
     },
     "cursor/cli/shell-mode.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/shell-mode",
       "label": "Shell Mode",
@@ -574,9 +572,9 @@
     },
     "cursor/cli/using.md": {
       "source": "cursor",
-      "section": "cli",
+      "section": "CLI",
       "category_path": [
-        "cli"
+        "CLI"
       ],
       "slug": "cli/using",
       "label": "Using Agent in CLI",
@@ -584,13 +582,13 @@
       "sha256": "4ddc7b0aaef3c271bf86e234901b7cbe027e16b240d67fbf8e4933a7399676e1",
       "bytes": 5786,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Using"
+      "sidebar_label": "Capabilities"
     },
     "cursor/cloud-agent.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent",
       "label": "Cloud Agents",
@@ -598,13 +596,13 @@
       "sha256": "8ff480c6e6e713ee1a23f7a2cdcf2e5f9bc36e76f758c5cb63d99f96b21308d4",
       "bytes": 10826,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Cloud Agent"
+      "sidebar_label": "Overview"
     },
     "cursor/cloud-agent/api/endpoints.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/api/endpoints",
       "label": "Cloud Agents API",
@@ -612,13 +610,13 @@
       "sha256": "5e66ef90b60108b021a45f510198b98d7ed0680fd80aed6f3a9a792b7c9d3c2b",
       "bytes": 52232,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Endpoints"
+      "sidebar_label": "API"
     },
     "cursor/cloud-agent/automations.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/automations",
       "label": "Automations",
@@ -630,9 +628,9 @@
     },
     "cursor/cloud-agent/best-practices.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/best-practices",
       "label": "Best Practices",
@@ -644,9 +642,9 @@
     },
     "cursor/cloud-agent/builds.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/builds",
       "label": "Cloud Agent Builds",
@@ -658,9 +656,9 @@
     },
     "cursor/cloud-agent/capabilities.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/capabilities",
       "label": "Capabilities",
@@ -672,9 +670,9 @@
     },
     "cursor/cloud-agent/identity.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/identity",
       "label": "OIDC tokens",
@@ -686,9 +684,9 @@
     },
     "cursor/cloud-agent/metadata.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/metadata",
       "label": "Agent metadata",
@@ -700,9 +698,9 @@
     },
     "cursor/cloud-agent/mobile.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/mobile",
       "label": "Cursor for iOS",
@@ -714,9 +712,9 @@
     },
     "cursor/cloud-agent/private-connectivity.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/private-connectivity",
       "label": "Private Connectivity",
@@ -728,9 +726,9 @@
     },
     "cursor/cloud-agent/security-network.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/security-network",
       "label": "Secrets & Network",
@@ -742,9 +740,9 @@
     },
     "cursor/cloud-agent/security.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/security",
       "label": "Security overview",
@@ -756,9 +754,9 @@
     },
     "cursor/cloud-agent/settings.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/settings",
       "label": "Cloud Agents settings",
@@ -770,9 +768,9 @@
     },
     "cursor/cloud-agent/setup.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "cloud-agent/setup",
       "label": "Cloud Environment Setup",
@@ -812,9 +810,9 @@
     },
     "cursor/customize-cursor.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "customize-cursor",
       "label": "Customize Cursor",
@@ -822,7 +820,7 @@
       "sha256": "9ae0878d97465512ad29459f5406538ec7b427dfbaa39e1cc95d3deb447f363e",
       "bytes": 5200,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Customize Cursor"
+      "sidebar_label": "Overview"
     },
     "cursor/enterprise.md": {
       "source": "cursor",
@@ -1858,10 +1856,10 @@
     },
     "cursor/help/getting-started/build-ai-coding-agent.md": {
       "source": "cursor",
-      "section": "Getting started",
+      "section": "Get Started",
       "category_path": [
         "Help Center",
-        "Getting started"
+        "Get Started"
       ],
       "slug": "help/getting-started/build-ai-coding-agent",
       "label": "How do I build an AI coding agent?",
@@ -1873,10 +1871,10 @@
     },
     "cursor/help/getting-started/first-project.md": {
       "source": "cursor",
-      "section": "Getting started",
+      "section": "Get Started",
       "category_path": [
         "Help Center",
-        "Getting started"
+        "Get Started"
       ],
       "slug": "help/getting-started/first-project",
       "label": "Your first project",
@@ -1888,10 +1886,10 @@
     },
     "cursor/help/getting-started/install.md": {
       "source": "cursor",
-      "section": "Getting started",
+      "section": "Get Started",
       "category_path": [
         "Help Center",
-        "Getting started"
+        "Get Started"
       ],
       "slug": "help/getting-started/install",
       "label": "Download and install Cursor",
@@ -1903,10 +1901,10 @@
     },
     "cursor/help/getting-started/migrate-jetbrains.md": {
       "source": "cursor",
-      "section": "Getting started",
+      "section": "Get Started",
       "category_path": [
         "Help Center",
-        "Getting started"
+        "Get Started"
       ],
       "slug": "help/getting-started/migrate-jetbrains",
       "label": "Migrate from JetBrains",
@@ -1918,10 +1916,10 @@
     },
     "cursor/help/getting-started/migrate-vscode.md": {
       "source": "cursor",
-      "section": "Getting started",
+      "section": "Get Started",
       "category_path": [
         "Help Center",
-        "Getting started"
+        "Get Started"
       ],
       "slug": "help/getting-started/migrate-vscode",
       "label": "Migrate from VS Code",
@@ -2443,9 +2441,9 @@
     },
     "cursor/hooks.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "hooks",
       "label": "Hooks",
@@ -2467,7 +2465,7 @@
       "sha256": "c7e85587e68b06506586a141160d5b77822541df9c50faed588be6d92663a5be",
       "bytes": 12634,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Azure Devops"
+      "sidebar_label": "Azure DevOps"
     },
     "cursor/integrations/bitbucket.md": {
       "source": "cursor",
@@ -2625,9 +2623,9 @@
     },
     "cursor/mcp.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "mcp",
       "label": "Model Context Protocol (MCP)",
@@ -2807,9 +2805,9 @@
     },
     "cursor/origin.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin",
       "label": "Origin",
@@ -2817,13 +2815,13 @@
       "sha256": "ddbb0a90ccc0d7c8f62a7f931569babffda7bdf3632f548f4ed884d1cb898f08",
       "bytes": 3949,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Origin"
+      "sidebar_label": "Overview"
     },
     "cursor/origin/browse.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/browse",
       "label": "Browse & Search",
@@ -2831,13 +2829,13 @@
       "sha256": "eb05c29b40113ac7646cc3cbfb5ec95afaf75dc2dbcd009a24feb4cb056588a3",
       "bytes": 1621,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Browse"
+      "sidebar_label": "Browse & Search"
     },
     "cursor/origin/cli.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/cli",
       "label": "Install the CLI",
@@ -2849,9 +2847,9 @@
     },
     "cursor/origin/cli/reference/commands.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/cli/reference/commands",
       "label": "Commands",
@@ -2863,9 +2861,9 @@
     },
     "cursor/origin/cli/reference/pull-requests.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/cli/reference/pull-requests",
       "label": "Pull request commands",
@@ -2877,9 +2875,9 @@
     },
     "cursor/origin/codebase-settings.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/codebase-settings",
       "label": "Codebase settings",
@@ -2887,13 +2885,13 @@
       "sha256": "0e631122a466c7879001eb80db5f014ae6bcc6162b57b65fc1af97fcae1f22b8",
       "bytes": 2346,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Codebase Settings"
+      "sidebar_label": "Codebase settings"
     },
     "cursor/origin/create-repository.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/create-repository",
       "label": "Create an Origin repository",
@@ -2901,13 +2899,13 @@
       "sha256": "91876877510539b41416ad343381c664b49fec519a43099454e843533238d503",
       "bytes": 2826,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Create Repository"
+      "sidebar_label": "Create a repository"
     },
     "cursor/origin/git.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/git",
       "label": "Clone, Push & Pull",
@@ -2915,13 +2913,13 @@
       "sha256": "79b894936fc3a53afe3a1bbae60e327af0348a51cd8764d0badfaa4f7bb17c42",
       "bytes": 2142,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Git"
+      "sidebar_label": "Clone, Push & Pull"
     },
     "cursor/origin/integrations.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/integrations",
       "label": "Integrations",
@@ -2933,9 +2931,9 @@
     },
     "cursor/origin/mirror-github.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/mirror-github",
       "label": "Mirror a GitHub repository",
@@ -2947,9 +2945,9 @@
     },
     "cursor/origin/pull-requests.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/pull-requests",
       "label": "Pull requests",
@@ -2957,13 +2955,13 @@
       "sha256": "5ece5460df0bd7d0e96bcdf2f712d859280a4b24aab66c1e27e670aebe20a61b",
       "bytes": 2111,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Pull Requests"
+      "sidebar_label": "Pull requests"
     },
     "cursor/origin/settings.md": {
       "source": "cursor",
-      "section": "origin",
+      "section": "Origin",
       "category_path": [
-        "origin"
+        "Origin"
       ],
       "slug": "origin/settings",
       "label": "Settings",
@@ -2985,13 +2983,13 @@
       "sha256": "738d706f6c0315105a6e58fae1a60dc92f9b1e3fb4e61f93ddd6c8bb366c38f0",
       "bytes": 30290,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Overview"
+      "sidebar_label": "Welcome"
     },
     "cursor/plugins.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "plugins",
       "label": "Plugins",
@@ -3017,9 +3015,9 @@
     },
     "cursor/rules.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "rules",
       "label": "Rules",
@@ -3083,13 +3081,13 @@
       "sha256": "907a70ffcb5bf330acd05319d04dea626c32737998c34519308b5c28a0a68bc6",
       "bytes": 117440,
       "fetched_at": "2026-08-23T16:36:54Z",
-      "sidebar_label": "Typescript"
+      "sidebar_label": "TypeScript"
     },
     "cursor/security-agents.md": {
       "source": "cursor",
-      "section": "cloud-agents",
+      "section": "Cloud Agents",
       "category_path": [
-        "cloud-agents"
+        "Cloud Agents"
       ],
       "slug": "security-agents",
       "label": "Security Agents",
@@ -3101,9 +3099,9 @@
     },
     "cursor/skills.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "skills",
       "label": "Agent Skills",
@@ -3115,9 +3113,9 @@
     },
     "cursor/subagents.md": {
       "source": "cursor",
-      "section": "customizing",
+      "section": "Customize",
       "category_path": [
-        "customizing"
+        "Customize"
       ],
       "slug": "subagents",
       "label": "Subagents",
