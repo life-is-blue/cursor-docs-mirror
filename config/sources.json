@@ -1,0 +1,11 @@
+{
+  "sources": [
+    {
+      "id": "cursor",
+      "site_root": "https://cursor.com",
+      "llms_path": "/llms.txt",
+      "docs_path_prefix": "/docs/",
+      "output_subdir": "cursor"
+    }
+  ]
+}

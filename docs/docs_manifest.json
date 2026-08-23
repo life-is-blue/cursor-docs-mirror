@@ -1,0 +1,3131 @@
+{
+  "generated_at": "2026-08-23T16:37:11Z",
+  "tool": "scripts/fetch_cursor_docs.py",
+  "strict_fetch": true,
+  "is_degraded": false,
+  "sources": [
+    {
+      "id": "cursor",
+      "site_root": "https://cursor.com",
+      "llms_path": "/llms.txt",
+      "docs_path_prefix": "/docs/",
+      "output_subdir": "cursor"
+    }
+  ],
+  "sidebar_file": "docs/starlight_sidebar.json",
+  "summary_file": "docs/SUMMARY.md",
+  "stats": {
+    "total_pages": 215,
+    "successful_pages": 215,
+    "failed_pages": 0,
+    "removed_files": 0,
+    "invariants_passed": true
+  },
+  "failed": [],
+  "files": {
+    "cursor/account/enterprise/billing-groups.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/enterprise/billing-groups",
+      "label": "Billing Groups",
+      "url": "https://cursor.com/docs/account/enterprise/billing-groups.md",
+      "sha256": "a843395d3da31213651c8e55d156e9aa38d9fa76f4e796fd1eab9e1db440484a",
+      "bytes": 3483,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Billing Groups"
+    },
+    "cursor/account/enterprise/cyber-safeguards.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/enterprise/cyber-safeguards",
+      "label": "Cyber Safeguards",
+      "url": "https://cursor.com/docs/account/enterprise/cyber-safeguards.md",
+      "sha256": "0e7b18545e2358af09f47d484de37c541f96f4d593b436231d452d2e2b08baf5",
+      "bytes": 7112,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cyber Safeguards"
+    },
+    "cursor/account/enterprise/service-accounts.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/enterprise/service-accounts",
+      "label": "Service Accounts",
+      "url": "https://cursor.com/docs/account/enterprise/service-accounts.md",
+      "sha256": "900f315460955cf5ed4eabc9ca6b8db8845d70361ce8b094f03b4cf05b36a096",
+      "bytes": 6707,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Service Accounts"
+    },
+    "cursor/account/teams/analytics.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/analytics",
+      "label": "Usage Analytics",
+      "url": "https://cursor.com/docs/account/teams/analytics.md",
+      "sha256": "7cc631212b5169a94a44abb2a90e3db0e429711aad3cff21229e3e407eacd0cc",
+      "bytes": 10088,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Analytics"
+    },
+    "cursor/account/teams/dashboard.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/dashboard",
+      "label": "Dashboard",
+      "url": "https://cursor.com/docs/account/teams/dashboard.md",
+      "sha256": "e98b9752908fc0374c2248079c77b4522d917e6f5531a454e5b70bee8606e930",
+      "bytes": 8132,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Dashboard"
+    },
+    "cursor/account/teams/members.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/members",
+      "label": "Members, Roles, and Seat Types",
+      "url": "https://cursor.com/docs/account/teams/members.md",
+      "sha256": "d6f3d607429d16076f9f27e7cd9a23cdcdf889d16fcf6de092ec310b05fedf00",
+      "bytes": 9993,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Members"
+    },
+    "cursor/account/teams/pricing.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/pricing",
+      "label": "Team Pricing",
+      "url": "https://cursor.com/docs/account/teams/pricing.md",
+      "sha256": "4bdae5caf97838fd1b86c44e0e0a898532082d76ddfe94512f4929236f01629f",
+      "bytes": 33689,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Pricing"
+    },
+    "cursor/account/teams/scim.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/scim",
+      "label": "SCIM",
+      "url": "https://cursor.com/docs/account/teams/scim.md",
+      "sha256": "1a2b0b287551e8280d2826f4585459b0094c30c406ce603f78931ad3aa9b87c2",
+      "bytes": 6532,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "SCIM"
+    },
+    "cursor/account/teams/setup.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/setup",
+      "label": "Get Started",
+      "url": "https://cursor.com/docs/account/teams/setup.md",
+      "sha256": "3b8bdca37526949753dcd4b669ad1d9ccedf31b3bb659c45c3f0910229838635",
+      "bytes": 2778,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Setup"
+    },
+    "cursor/account/teams/sso.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "account/teams/sso",
+      "label": "SSO",
+      "url": "https://cursor.com/docs/account/teams/sso.md",
+      "sha256": "0c25172812c693d01b5049e645c8fcfecc375b034bed1f51a947b2e6815a8a96",
+      "bytes": 2769,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "SSO"
+    },
+    "cursor/agent/agent-review.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/agent-review",
+      "label": "Agent Review",
+      "url": "https://cursor.com/docs/agent/agent-review.md",
+      "sha256": "3715e5c3d9d013fdfaa8109e1cef9081d516038b8750f4eee2a995180f4fbb61",
+      "bytes": 1673,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Agent Review"
+    },
+    "cursor/agent/agents-window.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/agents-window",
+      "label": "Agents Window",
+      "url": "https://cursor.com/docs/agent/agents-window.md",
+      "sha256": "e9dba4de79bf5dd69f8c7ce6ddbd553fe175f72b34a38f5758b99e63b9c31af3",
+      "bytes": 2976,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Agents Window"
+    },
+    "cursor/agent/debug-mode.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/debug-mode",
+      "label": "Debug Mode",
+      "url": "https://cursor.com/docs/agent/debug-mode.md",
+      "sha256": "21a95dfe4f49ee1c8aec727f7a799559f78ca14783f45b2be3748479b35d6a9f",
+      "bytes": 2555,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Debug Mode"
+    },
+    "cursor/agent/design-mode.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/design-mode",
+      "label": "Design Mode",
+      "url": "https://cursor.com/docs/agent/design-mode.md",
+      "sha256": "6335b0674fa82baa2c79fd2ea150f174e6abac360d6e38564fa5f9f4dc01aacc",
+      "bytes": 3577,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Design Mode"
+    },
+    "cursor/agent/overview.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/overview",
+      "label": "Cursor Agent",
+      "url": "https://cursor.com/docs/agent/overview.md",
+      "sha256": "7bf55b82e7dd3a8e32225c2b00147d14ee28019c44d04a4fa55f8cb2eb3db343",
+      "bytes": 6222,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Overview"
+    },
+    "cursor/agent/plan-mode.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/plan-mode",
+      "label": "Plan Mode",
+      "url": "https://cursor.com/docs/agent/plan-mode.md",
+      "sha256": "7735fd1b71f5d6bb4316369d79d577318ae97208d7edc9860eb47b596ca883b8",
+      "bytes": 1920,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Plan Mode"
+    },
+    "cursor/agent/prompting.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/prompting",
+      "label": "Prompting agents",
+      "url": "https://cursor.com/docs/agent/prompting.md",
+      "sha256": "5dfbedd4ca7815126c9cd3f4f0e1967c991ff4320a583f6fa362485be1d9f7b2",
+      "bytes": 4476,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Prompting"
+    },
+    "cursor/agent/security.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/security",
+      "label": "Agent Security",
+      "url": "https://cursor.com/docs/agent/security.md",
+      "sha256": "d54ccd9897c20d5c08b235de8f3adbf1bcc30a95d072988de6a2b773abff9572",
+      "bytes": 2967,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Security"
+    },
+    "cursor/agent/security/run-modes.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/security/run-modes",
+      "label": "Run Modes",
+      "url": "https://cursor.com/docs/agent/security/run-modes.md",
+      "sha256": "556b501c270e1f906eb30930e4d7d52782a1019dd872420cb1f305edfe416206",
+      "bytes": 18010,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Run Modes"
+    },
+    "cursor/agent/tools/browser.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/tools/browser",
+      "label": "Browser",
+      "url": "https://cursor.com/docs/agent/tools/browser.md",
+      "sha256": "f15beb6863ede9e7ded065608130956d47c6274b6e358f5e00183a3e2946d60b",
+      "bytes": 10305,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Browser"
+    },
+    "cursor/agent/tools/canvas.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/tools/canvas",
+      "label": "Canvases",
+      "url": "https://cursor.com/docs/agent/tools/canvas.md",
+      "sha256": "82960f61a0bc638d7e83e7f9720e942f3e14ba0712421d5e993a2871b487180e",
+      "bytes": 3694,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Canvas"
+    },
+    "cursor/agent/tools/search.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/tools/search",
+      "label": "Search",
+      "url": "https://cursor.com/docs/agent/tools/search.md",
+      "sha256": "97d822cf751e3e955be23604e3850e0eb98afd9cb91a54e8dddd75252bb25a83",
+      "bytes": 2537,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Search"
+    },
+    "cursor/agent/tools/terminal.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "agent/tools/terminal",
+      "label": "Terminal",
+      "url": "https://cursor.com/docs/agent/tools/terminal.md",
+      "sha256": "f98cc14eb2d26a07b2a8170305f615297379898ffe8f0e1035132865172c8e12",
+      "bytes": 1394,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Terminal"
+    },
+    "cursor/approval-agents.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "approval-agents",
+      "label": "PR Routing & Approval",
+      "url": "https://cursor.com/docs/approval-agents.md",
+      "sha256": "02047408dfe471a4b3467563cffbb902af44f2a552576a2f73547748d386987e",
+      "bytes": 6477,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Approval Agents"
+    },
+    "cursor/bugbot.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "bugbot",
+      "label": "Bugbot",
+      "url": "https://cursor.com/docs/bugbot.md",
+      "sha256": "4e7061ce98c5d7d37105b25733e72439e6b9f3e58cf7de73bfc3e2d7f8a2b038",
+      "bytes": 31012,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Bugbot"
+    },
+    "cursor/cli/acp.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/acp",
+      "label": "ACP",
+      "url": "https://cursor.com/docs/cli/acp.md",
+      "sha256": "65f46c603203646915b98f3ab52db1f0d670c221b46521a2b4e71d70d3c9181b",
+      "bytes": 14488,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "ACP"
+    },
+    "cursor/cli/changelog.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/changelog",
+      "label": "CLI Changelog",
+      "url": "https://cursor.com/docs/cli/changelog.md",
+      "sha256": "990482363ec11a7fe18cfa5b9798e39b6ad954d92f263ffa5cd067554ff38b83",
+      "bytes": 40336,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Changelog"
+    },
+    "cursor/cli/github-actions.md": {
+      "source": "cursor",
+      "section": "Headless",
+      "category_path": [
+        "CLI Documentation",
+        "Headless"
+      ],
+      "slug": "cli/github-actions",
+      "label": "GitHub Actions",
+      "url": "https://cursor.com/docs/cli/github-actions.md",
+      "sha256": "2bbbc370fb5f187d65355a9df8d72fe72d7594cdae5845fb440cb7ae62731bda",
+      "bytes": 4115,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "GitHub Actions"
+    },
+    "cursor/cli/headless.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/headless",
+      "label": "Using Headless CLI",
+      "url": "https://cursor.com/docs/cli/headless.md",
+      "sha256": "d767966f4e86012bce9e358c80c8a8e056d4ad0c8e73d74fd036d5acdf32a7af",
+      "bytes": 7442,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Headless"
+    },
+    "cursor/cli/installation.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/installation",
+      "label": "Installation",
+      "url": "https://cursor.com/docs/cli/installation.md",
+      "sha256": "50435bbdfe5f3640484df508440b1c6274d8c57f85c2f91ac78ee15caa5a1d3c",
+      "bytes": 1017,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Installation"
+    },
+    "cursor/cli/overview.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/overview",
+      "label": "Cursor CLI",
+      "url": "https://cursor.com/docs/cli/overview.md",
+      "sha256": "c56ae1d766654ca892b2cfb513a2f7f5ef0082f107d225fb4319fa9f20109e85",
+      "bytes": 3341,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Overview"
+    },
+    "cursor/cli/reference/authentication.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/reference/authentication",
+      "label": "Authentication",
+      "url": "https://cursor.com/docs/cli/reference/authentication.md",
+      "sha256": "c578539ee1ae3d574a75937230b22cea360f28e17da37529ddfceeedd04d2a1e",
+      "bytes": 1652,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Authentication"
+    },
+    "cursor/cli/reference/configuration.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/reference/configuration",
+      "label": "Configuration",
+      "url": "https://cursor.com/docs/cli/reference/configuration.md",
+      "sha256": "d6921fd7a44cf73c0e09063d42aeebd01695fdc1848505df515b573dbf8d579d",
+      "bytes": 6643,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Configuration"
+    },
+    "cursor/cli/reference/output-format.md": {
+      "source": "cursor",
+      "section": "Reference",
+      "category_path": [
+        "CLI Documentation",
+        "Reference"
+      ],
+      "slug": "cli/reference/output-format",
+      "label": "Output format",
+      "url": "https://cursor.com/docs/cli/reference/output-format.md",
+      "sha256": "add17086b1b46485b73e24e995a5f69f16bcdb0f5f9f94f5f86cadb506063d69",
+      "bytes": 11053,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Output Format"
+    },
+    "cursor/cli/reference/parameters.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/reference/parameters",
+      "label": "Parameters",
+      "url": "https://cursor.com/docs/cli/reference/parameters.md",
+      "sha256": "963d15eb1edf8407dfcda3d3334e23f89c6aa3593a7827b9fe53dc1c83112989",
+      "bytes": 13910,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Parameters"
+    },
+    "cursor/cli/reference/permissions.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/reference/permissions",
+      "label": "Permissions",
+      "url": "https://cursor.com/docs/cli/reference/permissions.md",
+      "sha256": "9f8264f5d8136496f008e0949cdad81760b8fa7784e3d6a2a04757c13c960f15",
+      "bytes": 4430,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Permissions"
+    },
+    "cursor/cli/reference/slash-commands.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/reference/slash-commands",
+      "label": "Slash commands",
+      "url": "https://cursor.com/docs/cli/reference/slash-commands.md",
+      "sha256": "a39f8c0086b6ca6e2bfde6c3595142987cdef4489ad0c0e213510bb746947111",
+      "bytes": 6309,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Slash Commands"
+    },
+    "cursor/cli/reference/terminal-setup.md": {
+      "source": "cursor",
+      "section": "Reference",
+      "category_path": [
+        "CLI Documentation",
+        "Reference"
+      ],
+      "slug": "cli/reference/terminal-setup",
+      "label": "Terminal setup",
+      "url": "https://cursor.com/docs/cli/reference/terminal-setup.md",
+      "sha256": "896ae449c38479eb86012dd6b16d310de788a767bde70480aa631317c09a27b8",
+      "bytes": 8014,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Terminal Setup"
+    },
+    "cursor/cli/shell-mode.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/shell-mode",
+      "label": "Shell Mode",
+      "url": "https://cursor.com/docs/cli/shell-mode.md",
+      "sha256": "7acca7788419524ddc8f677930401a10d3413a760f830b33d5bc42c9353bc0c7",
+      "bytes": 2320,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Shell Mode"
+    },
+    "cursor/cli/using.md": {
+      "source": "cursor",
+      "section": "cli",
+      "category_path": [
+        "cli"
+      ],
+      "slug": "cli/using",
+      "label": "Using Agent in CLI",
+      "url": "https://cursor.com/docs/cli/using.md",
+      "sha256": "4ddc7b0aaef3c271bf86e234901b7cbe027e16b240d67fbf8e4933a7399676e1",
+      "bytes": 5786,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Using"
+    },
+    "cursor/cloud-agent.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent",
+      "label": "Cloud Agents",
+      "url": "https://cursor.com/docs/cloud-agent.md",
+      "sha256": "8ff480c6e6e713ee1a23f7a2cdcf2e5f9bc36e76f758c5cb63d99f96b21308d4",
+      "bytes": 10826,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cloud Agent"
+    },
+    "cursor/cloud-agent/api/endpoints.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/api/endpoints",
+      "label": "Cloud Agents API",
+      "url": "https://cursor.com/docs/cloud-agent/api/endpoints.md",
+      "sha256": "5e66ef90b60108b021a45f510198b98d7ed0680fd80aed6f3a9a792b7c9d3c2b",
+      "bytes": 52232,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Endpoints"
+    },
+    "cursor/cloud-agent/automations.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/automations",
+      "label": "Automations",
+      "url": "https://cursor.com/docs/cloud-agent/automations.md",
+      "sha256": "c1ada3c165f956986e543d4c69aee6e2f0f0fdfb98f7fba68b4434b73efa21cf",
+      "bytes": 16232,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Automations"
+    },
+    "cursor/cloud-agent/best-practices.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/best-practices",
+      "label": "Best Practices",
+      "url": "https://cursor.com/docs/cloud-agent/best-practices.md",
+      "sha256": "c36a6c4d6d7a3b0d84de557a3db1c6697ffa4cf89b3c8c50a724ed922655eccd",
+      "bytes": 3410,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Best Practices"
+    },
+    "cursor/cloud-agent/builds.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/builds",
+      "label": "Cloud Agent Builds",
+      "url": "https://cursor.com/docs/cloud-agent/builds.md",
+      "sha256": "4a376bce7f9ef99451200bfb4d8756e25b29ebc45bc6b2a65b93f6e5b14fedea",
+      "bytes": 9096,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Builds"
+    },
+    "cursor/cloud-agent/capabilities.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/capabilities",
+      "label": "Capabilities",
+      "url": "https://cursor.com/docs/cloud-agent/capabilities.md",
+      "sha256": "a1e1fbcb58ed413efbef0adae6c07321484f9233a469b1f37ee0521275624859",
+      "bytes": 17688,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Capabilities"
+    },
+    "cursor/cloud-agent/identity.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/identity",
+      "label": "OIDC tokens",
+      "url": "https://cursor.com/docs/cloud-agent/identity.md",
+      "sha256": "847100758798f57e19cee2932eeaa59a596dc0ef80dfc256724718e137b3149a",
+      "bytes": 21629,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Identity"
+    },
+    "cursor/cloud-agent/metadata.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/metadata",
+      "label": "Agent metadata",
+      "url": "https://cursor.com/docs/cloud-agent/metadata.md",
+      "sha256": "c3aa314c702e8b6e34347856c034eeb88aa60c719ea5f5ba928b366d9f5158bf",
+      "bytes": 13058,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Metadata"
+    },
+    "cursor/cloud-agent/mobile.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/mobile",
+      "label": "Cursor for iOS",
+      "url": "https://cursor.com/docs/cloud-agent/mobile.md",
+      "sha256": "cb405008d8e403633bd43d89556e48d60a81c6a9003bd175343dbcaa53420b13",
+      "bytes": 11483,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Mobile"
+    },
+    "cursor/cloud-agent/private-connectivity.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/private-connectivity",
+      "label": "Private Connectivity",
+      "url": "https://cursor.com/docs/cloud-agent/private-connectivity.md",
+      "sha256": "bf9df972c14680e46affb6e47443ce32d2cb98e110f22cbd8a110b3a0073963a",
+      "bytes": 16666,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Private Connectivity"
+    },
+    "cursor/cloud-agent/security-network.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/security-network",
+      "label": "Secrets & Network",
+      "url": "https://cursor.com/docs/cloud-agent/security-network.md",
+      "sha256": "c4910dedbc95f8155b3d3784bff665579febe86e6992d41575deeead3b607e18",
+      "bytes": 17916,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Security Network"
+    },
+    "cursor/cloud-agent/security.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/security",
+      "label": "Security overview",
+      "url": "https://cursor.com/docs/cloud-agent/security.md",
+      "sha256": "451db97caabc7f3ab2ff520e997c709f6bb5127f548896e376d86993e1ac1b7c",
+      "bytes": 17549,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Security"
+    },
+    "cursor/cloud-agent/settings.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/settings",
+      "label": "Cloud Agents settings",
+      "url": "https://cursor.com/docs/cloud-agent/settings.md",
+      "sha256": "bd74a5c2285b9486ef091cd3c5bb69da2b8efedcf17c38e9ed12520117870a77",
+      "bytes": 5963,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Settings"
+    },
+    "cursor/cloud-agent/setup.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "cloud-agent/setup",
+      "label": "Cloud Environment Setup",
+      "url": "https://cursor.com/docs/cloud-agent/setup.md",
+      "sha256": "af42c287e6b0eb33660556d08321e35154c9594f011b8b60eea4abe5d0758b12",
+      "bytes": 21886,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Setup"
+    },
+    "cursor/configuration/worktrees.md": {
+      "source": "cursor",
+      "section": "Agent",
+      "category_path": [
+        "Agent"
+      ],
+      "slug": "configuration/worktrees",
+      "label": "Worktrees",
+      "url": "https://cursor.com/docs/configuration/worktrees.md",
+      "sha256": "cc4e372cea406d6f15d4bbfc1a7cc6b680781163fa1d6ed680b34fb52ab4e79d",
+      "bytes": 7556,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Worktrees"
+    },
+    "cursor/cursor-router.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "cursor-router",
+      "label": "Cursor Router",
+      "url": "https://cursor.com/docs/cursor-router.md",
+      "sha256": "9ee9451e2866bfd53e6f7ec72eb77357daacc29134c4ad7dcbb1e59f28f9af92",
+      "bytes": 4835,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cursor Router"
+    },
+    "cursor/customize-cursor.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "customize-cursor",
+      "label": "Customize Cursor",
+      "url": "https://cursor.com/docs/customize-cursor.md",
+      "sha256": "9ae0878d97465512ad29459f5406538ec7b427dfbaa39e1cc95d3deb447f363e",
+      "bytes": 5200,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Customize Cursor"
+    },
+    "cursor/enterprise.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise",
+      "label": "Enterprise",
+      "url": "https://cursor.com/docs/enterprise.md",
+      "sha256": "9b80abb9921c6dc4c65ad8a652bfd8e1d59a53beceaefff68d4e74c524c32cba",
+      "bytes": 17995,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Enterprise"
+    },
+    "cursor/enterprise/admin-setup-guide.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/admin-setup-guide",
+      "label": "Admin Setup Guide",
+      "url": "https://cursor.com/docs/enterprise/admin-setup-guide.md",
+      "sha256": "f457ce2d46a41c7f81f78fcc61067ce3dc0ec959e5c761259a9838066dc7b189",
+      "bytes": 3199,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Admin Setup Guide"
+    },
+    "cursor/enterprise/baa.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/baa",
+      "label": "HIPAA Business Associate Agreements",
+      "url": "https://cursor.com/docs/enterprise/baa.md",
+      "sha256": "9ef7128c12bc964b94399b343e7d9af0ddda67d94047a06940fe59ef4a2c083c",
+      "bytes": 4080,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "BAA"
+    },
+    "cursor/enterprise/compliance-and-monitoring.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/compliance-and-monitoring",
+      "label": "Compliance and Monitoring",
+      "url": "https://cursor.com/docs/enterprise/compliance-and-monitoring.md",
+      "sha256": "567f8abbc2ecdcc798672334b9ddf2bd5ece1208cb175652ba70c769ef46528c",
+      "bytes": 7740,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Compliance And Monitoring"
+    },
+    "cursor/enterprise/deployment-patterns.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/deployment-patterns",
+      "label": "Deployment Patterns",
+      "url": "https://cursor.com/docs/enterprise/deployment-patterns.md",
+      "sha256": "2dcbc9ea29a94a14e4a3663bd2f063397f6a0ca15f89d56692e80d3c52e0fb6b",
+      "bytes": 22694,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Deployment Patterns"
+    },
+    "cursor/enterprise/endpoint-security.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/endpoint-security",
+      "label": "Endpoint Security Configuration",
+      "url": "https://cursor.com/docs/enterprise/endpoint-security.md",
+      "sha256": "1c49f05834f2f0590bc8e260f87f8b0e8931bc415d1187cd58430d59879c38e5",
+      "bytes": 5463,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Endpoint Security"
+    },
+    "cursor/enterprise/identity-and-access-management.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/identity-and-access-management",
+      "label": "Identity and Access Management",
+      "url": "https://cursor.com/docs/enterprise/identity-and-access-management.md",
+      "sha256": "57bee7c663325de9d1d2aa3f3676825d00bd404b3b3e197abe1e851e243cfcdb",
+      "bytes": 10577,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Identity And Access Management"
+    },
+    "cursor/enterprise/llm-safety-and-controls.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/llm-safety-and-controls",
+      "label": "LLM Safety and Controls",
+      "url": "https://cursor.com/docs/enterprise/llm-safety-and-controls.md",
+      "sha256": "9301c7356685c2e133a35845c83b1788e857f344f07510ca7c95599cba207812",
+      "bytes": 15124,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "LLM Safety And Controls"
+    },
+    "cursor/enterprise/model-and-integration-management.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/model-and-integration-management",
+      "label": "Model and Integration Management",
+      "url": "https://cursor.com/docs/enterprise/model-and-integration-management.md",
+      "sha256": "fb44ba8204f085af931e514520bfa6e53fb9dd6fe016e395001d066573dc4160",
+      "bytes": 12122,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Model And Integration Management"
+    },
+    "cursor/enterprise/network-configuration.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/network-configuration",
+      "label": "Network Configuration",
+      "url": "https://cursor.com/docs/enterprise/network-configuration.md",
+      "sha256": "1bc163bb7c4c60af684a1f1edccb61647b2f71092bb16acacd2c6b6be7d9f48f",
+      "bytes": 9247,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Network Configuration"
+    },
+    "cursor/enterprise/opentelemetry-export.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/opentelemetry-export",
+      "label": "OpenTelemetry Export",
+      "url": "https://cursor.com/docs/enterprise/opentelemetry-export.md",
+      "sha256": "47b07490baa4e2279706cec50645ce60a167595047ca0650edd250a1e64614ef",
+      "bytes": 10077,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Opentelemetry Export"
+    },
+    "cursor/enterprise/opentelemetry-export/wire.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/opentelemetry-export/wire",
+      "label": "OpenTelemetry Export Wire Reference",
+      "url": "https://cursor.com/docs/enterprise/opentelemetry-export/wire.md",
+      "sha256": "c45fbd1814f9004cfdf292403fc005224b3b59aa2f2c049b83debea1bc7b3765",
+      "bytes": 17103,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Wire"
+    },
+    "cursor/enterprise/organization-groups.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/organization-groups",
+      "label": "Organization Groups",
+      "url": "https://cursor.com/docs/enterprise/organization-groups.md",
+      "sha256": "8af627c78dcc93eacd00872c5cbd45b4a918c2e9555177908d06de704a0f88db",
+      "bytes": 17949,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Organization Groups"
+    },
+    "cursor/enterprise/organizations.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/organizations",
+      "label": "Organizations",
+      "url": "https://cursor.com/docs/enterprise/organizations.md",
+      "sha256": "3eae8528ce68138436f28844a7829547ada87afdd9f1780f3cad723f19cf3780",
+      "bytes": 7969,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Organizations"
+    },
+    "cursor/enterprise/pooled-usage.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/pooled-usage",
+      "label": "Pooled usage",
+      "url": "https://cursor.com/docs/enterprise/pooled-usage.md",
+      "sha256": "07c668045c3582c786bb141e6f45f733e63d3cfdbc2eb5414134c94f963310ac",
+      "bytes": 2409,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Pooled Usage"
+    },
+    "cursor/enterprise/privacy-and-data-governance.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/privacy-and-data-governance",
+      "label": "Privacy and Data Governance",
+      "url": "https://cursor.com/docs/enterprise/privacy-and-data-governance.md",
+      "sha256": "1c4696d06e389ca6a64b532f012163c826bbcde3b98d5db3cbc5b36948adcda7",
+      "bytes": 9444,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Privacy And Data Governance"
+    },
+    "cursor/enterprise/security-hardening.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "enterprise/security-hardening",
+      "label": "Security and Privacy Hardening",
+      "url": "https://cursor.com/docs/enterprise/security-hardening.md",
+      "sha256": "febc1754d7992b9682061a623f35528cd4195c242afb2e0cd7d19914dcfbf4b2",
+      "bytes": 24049,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Security Hardening"
+    },
+    "cursor/get-started/quickstart.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "get-started/quickstart",
+      "label": "Quickstart",
+      "url": "https://cursor.com/docs/get-started/quickstart.md",
+      "sha256": "f1644b24b45f5ed693ff2d446e9489b5ec10eb1adebc18f77de382ece4be24e1",
+      "bytes": 3907,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Quickstart"
+    },
+    "cursor/help/account-and-billing/app-store-subscription.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/app-store-subscription",
+      "label": "Subscribe from the iOS app",
+      "url": "https://cursor.com/help/account-and-billing/app-store-subscription.md",
+      "sha256": "9dd7bb881345ce99d7fc8fe91a2f892f14e6b7e8ca02ec0aea25111098590e71",
+      "bytes": 3324,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "App Store Subscription"
+    },
+    "cursor/help/account-and-billing/billing.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/billing",
+      "label": "Billing and payments",
+      "url": "https://cursor.com/help/account-and-billing/billing.md",
+      "sha256": "cdb0dd53dab3d4bc00d66999b379cedfbafc7e61d5610c0770d133d2f91a3183",
+      "bytes": 2866,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Billing"
+    },
+    "cursor/help/account-and-billing/bugbot-usage-based-billing.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/bugbot-usage-based-billing",
+      "label": "Bugbot usage-based billing",
+      "url": "https://cursor.com/help/account-and-billing/bugbot-usage-based-billing.md",
+      "sha256": "03d2b7b5228dc6509432654bf7668e6f2c3f7d3ef3cd68b33b0629f17485f7af",
+      "bytes": 2863,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Bugbot Usage Based Billing"
+    },
+    "cursor/help/account-and-billing/cancel.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/cancel",
+      "label": "Cancel your subscription",
+      "url": "https://cursor.com/help/account-and-billing/cancel.md",
+      "sha256": "0929308561bb1dac8c36e2b17a661f83ea595c715e7b450839c1fc452b43e408",
+      "bytes": 3046,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cancel"
+    },
+    "cursor/help/account-and-billing/change-email.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/change-email",
+      "label": "Change your email address",
+      "url": "https://cursor.com/help/account-and-billing/change-email.md",
+      "sha256": "4e8e5a2bdbec98bdc08ea2e8c49be5a736c242a52c58e996fc6d5ee5b45b5a1e",
+      "bytes": 1251,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Change Email"
+    },
+    "cursor/help/account-and-billing/cursor-start.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/cursor-start",
+      "label": "Cursor Start",
+      "url": "https://cursor.com/help/account-and-billing/cursor-start.md",
+      "sha256": "7b51c709a17c743afab8ecdd2357da4d37ba5ba72421f235852d5261c863ee3a",
+      "bytes": 4851,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cursor Start"
+    },
+    "cursor/help/account-and-billing/delete-account.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/delete-account",
+      "label": "Delete your account",
+      "url": "https://cursor.com/help/account-and-billing/delete-account.md",
+      "sha256": "44815623a2d328776d85a52f1f341866eedcfd39ff93926bbb76563bdcea8b8a",
+      "bytes": 940,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Delete Account"
+    },
+    "cursor/help/account-and-billing/enterprise.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/enterprise",
+      "label": "Enterprise billing",
+      "url": "https://cursor.com/help/account-and-billing/enterprise.md",
+      "sha256": "a8e5bbc9751fd04aac2e9fd51c6296a52f6bafb7ad50a826ffbaaadbc494fb46",
+      "bytes": 1015,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Enterprise"
+    },
+    "cursor/help/account-and-billing/invoices.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/invoices",
+      "label": "Invoices",
+      "url": "https://cursor.com/help/account-and-billing/invoices.md",
+      "sha256": "81353c24ff80fa98d540a92e8f07b858245788bf0263568bd3395d3cea80aac0",
+      "bytes": 1999,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Invoices"
+    },
+    "cursor/help/account-and-billing/overages.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/overages",
+      "label": "Usage-based charges",
+      "url": "https://cursor.com/help/account-and-billing/overages.md",
+      "sha256": "84cfaff07ed48e540265629cc7fc1cf1bc07ca77c8beedd91c720a920726ff87",
+      "bytes": 2653,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Overages"
+    },
+    "cursor/help/account-and-billing/payment-issues.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/payment-issues",
+      "label": "Payment issues",
+      "url": "https://cursor.com/help/account-and-billing/payment-issues.md",
+      "sha256": "d8d592cad27406878b61a89405ab06d280ecc0a92b15d196ebf09841096839eb",
+      "bytes": 1606,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Payment Issues"
+    },
+    "cursor/help/account-and-billing/payment-not-applied.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/payment-not-applied",
+      "label": "Payment completed but plan not updated",
+      "url": "https://cursor.com/help/account-and-billing/payment-not-applied.md",
+      "sha256": "933c8e7f56ca8c619762cdd78731273fbdef4f7b1f90b78327243cf20ddbdbf2",
+      "bytes": 1384,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Payment Not Applied"
+    },
+    "cursor/help/account-and-billing/pricing.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/pricing",
+      "label": "Pricing and plans",
+      "url": "https://cursor.com/help/account-and-billing/pricing.md",
+      "sha256": "522be7a23da6443acf2449fb9ae131067e2db3960bbaf1677a25fa513df533d2",
+      "bytes": 5012,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Pricing"
+    },
+    "cursor/help/account-and-billing/profiles.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/profiles",
+      "label": "Profiles",
+      "url": "https://cursor.com/help/account-and-billing/profiles.md",
+      "sha256": "b4ba979324200e1a44a624d5a0165bdd3a297d55962ee280424163f017106039",
+      "bytes": 4308,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Profiles"
+    },
+    "cursor/help/account-and-billing/referral-program.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/referral-program",
+      "label": "Referral program",
+      "url": "https://cursor.com/help/account-and-billing/referral-program.md",
+      "sha256": "9a1bcb37c7fd94d8350df172cb317de47c8bf286ce35c9739d758aa31f9cd9c3",
+      "bytes": 1726,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Referral Program"
+    },
+    "cursor/help/account-and-billing/refunds.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/refunds",
+      "label": "Refunds",
+      "url": "https://cursor.com/help/account-and-billing/refunds.md",
+      "sha256": "677543626867a816b344929843cd9f380e4ac3c400e38576c9ecbc3872647e2f",
+      "bytes": 4773,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Refunds"
+    },
+    "cursor/help/account-and-billing/spend-alerts.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/spend-alerts",
+      "label": "Spend alerts",
+      "url": "https://cursor.com/help/account-and-billing/spend-alerts.md",
+      "sha256": "69d42c50ce3112a6ee2626921935b02d9080c2027c7800795dc4ac9e15c909ea",
+      "bytes": 1200,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Spend Alerts"
+    },
+    "cursor/help/account-and-billing/spend-limits.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/spend-limits",
+      "label": "Spend limits",
+      "url": "https://cursor.com/help/account-and-billing/spend-limits.md",
+      "sha256": "530c396cd44f81f17e6e1f8df8a9efb13d2ba8db28d15431fb70df70801b4ecf",
+      "bytes": 3963,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Spend Limits"
+    },
+    "cursor/help/account-and-billing/student-discount.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/student-discount",
+      "label": "Student discount",
+      "url": "https://cursor.com/help/account-and-billing/student-discount.md",
+      "sha256": "73cc04ebf3c0236ee8b72ab0d489b1e10b9e12f6eef668fcf49c3174daa47e31",
+      "bytes": 2394,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Student Discount"
+    },
+    "cursor/help/account-and-billing/teams-management.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/teams-management",
+      "label": "Manage your team",
+      "url": "https://cursor.com/help/account-and-billing/teams-management.md",
+      "sha256": "74828f433bfe104d49509cedef2322834e311a859dc2ea32d5756098bc49614b",
+      "bytes": 3135,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Teams Management"
+    },
+    "cursor/help/account-and-billing/teams-setup.md": {
+      "source": "cursor",
+      "section": "Account and billing",
+      "category_path": [
+        "Help Center",
+        "Account and billing"
+      ],
+      "slug": "help/account-and-billing/teams-setup",
+      "label": "Set up a team",
+      "url": "https://cursor.com/help/account-and-billing/teams-setup.md",
+      "sha256": "30e4205bb7af6f0afbca8ec8eb8dbd6568232907b177ac42d55e506565feb273",
+      "bytes": 1247,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Teams Setup"
+    },
+    "cursor/help/ai-features/agent.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/agent",
+      "label": "Agent mode",
+      "url": "https://cursor.com/help/ai-features/agent.md",
+      "sha256": "4c78d130263ba4225dfac1025e24e5107fbd9f6c674b771a4a6f5cdead9a5198",
+      "bytes": 4812,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Agent"
+    },
+    "cursor/help/ai-features/agentic-coding.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/agentic-coding",
+      "label": "What is agentic coding?",
+      "url": "https://cursor.com/help/ai-features/agentic-coding.md",
+      "sha256": "133075f5deefa7c5e81f2e68e3592c47c888f70401cacd648fffda069301aceb",
+      "bytes": 2954,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Agentic Coding"
+    },
+    "cursor/help/ai-features/ai-pair-programming.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/ai-pair-programming",
+      "label": "How does AI pair programming work in Cursor?",
+      "url": "https://cursor.com/help/ai-features/ai-pair-programming.md",
+      "sha256": "681444b8c113cc1db0ed9b5447aec02524fba48098bd0d2877054d216f666258",
+      "bytes": 1630,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "AI Pair Programming"
+    },
+    "cursor/help/ai-features/ask-mode.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/ask-mode",
+      "label": "Ask mode",
+      "url": "https://cursor.com/help/ai-features/ask-mode.md",
+      "sha256": "a0d1412dc3cc7c31b543f618cb4d9b28bc34f79e6483a817b1690e384bf54cef",
+      "bytes": 916,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Ask Mode"
+    },
+    "cursor/help/ai-features/automations.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/automations",
+      "label": "Automations",
+      "url": "https://cursor.com/help/ai-features/automations.md",
+      "sha256": "f0829168f5f1b60dee577cc5945a071b399bafd8b2f6d66cac3fd792d5cdda91",
+      "bytes": 6756,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Automations"
+    },
+    "cursor/help/ai-features/background-agents.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/background-agents",
+      "label": "What are background agents?",
+      "url": "https://cursor.com/help/ai-features/background-agents.md",
+      "sha256": "ac2974704d508f1ffdc383492f9391050138a6a07067d399dc1b531a12eab358",
+      "bytes": 2608,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Background Agents"
+    },
+    "cursor/help/ai-features/browser.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/browser",
+      "label": "Browser use",
+      "url": "https://cursor.com/help/ai-features/browser.md",
+      "sha256": "860c2160693407595351cb731e0889c65f6c3f9f05404036619faa719a9865f3",
+      "bytes": 1002,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Browser"
+    },
+    "cursor/help/ai-features/bugbot.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/bugbot",
+      "label": "Bugbot",
+      "url": "https://cursor.com/help/ai-features/bugbot.md",
+      "sha256": "d71611ec5560f73f316bc8bd05933c016997019430007d7f1901b5de998a389c",
+      "bytes": 3429,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Bugbot"
+    },
+    "cursor/help/ai-features/cloud-agents.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/cloud-agents",
+      "label": "Cloud Agents",
+      "url": "https://cursor.com/help/ai-features/cloud-agents.md",
+      "sha256": "aeb276984c5213cda25e8a5ba8a15d134444ecb86661bb71f70cd3955c2ef666",
+      "bytes": 7617,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cloud Agents"
+    },
+    "cursor/help/ai-features/coding-agents.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/coding-agents",
+      "label": "What are coding agents?",
+      "url": "https://cursor.com/help/ai-features/coding-agents.md",
+      "sha256": "e3b1b38d3ce6ba4eb9a0c16aebbed5d9ae0d05af31845c29ae9dbff86e9d6716",
+      "bytes": 3743,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Coding Agents"
+    },
+    "cursor/help/ai-features/conversation-search.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/conversation-search",
+      "label": "Conversation search",
+      "url": "https://cursor.com/help/ai-features/conversation-search.md",
+      "sha256": "425d024438525355a9797f05aeb649200386bb6058325d73050c75b5b6d4a7f5",
+      "bytes": 1011,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Conversation Search"
+    },
+    "cursor/help/ai-features/debug-mode.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/debug-mode",
+      "label": "Debug mode",
+      "url": "https://cursor.com/help/ai-features/debug-mode.md",
+      "sha256": "63547897086a41176795ae0d42e14977320c6f8b12862346e33ab94466cde947",
+      "bytes": 1224,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Debug Mode"
+    },
+    "cursor/help/ai-features/inline-edit.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/inline-edit",
+      "label": "Inline edit",
+      "url": "https://cursor.com/help/ai-features/inline-edit.md",
+      "sha256": "381dfbc21d31de1e2b955b5c2a05ea772a2f6670d2272c572e04719bab63a4e1",
+      "bytes": 1217,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Inline Edit"
+    },
+    "cursor/help/ai-features/max-mode.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/max-mode",
+      "label": "Max Mode on legacy plans",
+      "url": "https://cursor.com/help/ai-features/max-mode.md",
+      "sha256": "ad8dadea8af58d2cd0e4bcd6d0d9ab06e411dd45f7fea16059785f7af1eddafa",
+      "bytes": 1134,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Max Mode"
+    },
+    "cursor/help/ai-features/mobile-app.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/mobile-app",
+      "label": "Cursor for iOS",
+      "url": "https://cursor.com/help/ai-features/mobile-app.md",
+      "sha256": "3c6d6f160e20af54dda741c07f6cdca4e3a5ab0c1ce3efe892e91436173c6092",
+      "bytes": 6137,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Mobile App"
+    },
+    "cursor/help/ai-features/multi-agent.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/multi-agent",
+      "label": "What is multi-agent coding?",
+      "url": "https://cursor.com/help/ai-features/multi-agent.md",
+      "sha256": "c000bcb5a60e867ae03dcc797fd90f7c0f732cb14b97f4dc0651531f929d23e3",
+      "bytes": 2551,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Multi Agent"
+    },
+    "cursor/help/ai-features/plan-mode.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/plan-mode",
+      "label": "Plan mode",
+      "url": "https://cursor.com/help/ai-features/plan-mode.md",
+      "sha256": "33b7ae1acb373358759520e249c9ec4f5c7a3e37c7414f360846a7edf4760c31",
+      "bytes": 1899,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Plan Mode"
+    },
+    "cursor/help/ai-features/shared-transcripts.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/shared-transcripts",
+      "label": "Shared transcripts",
+      "url": "https://cursor.com/help/ai-features/shared-transcripts.md",
+      "sha256": "33c4cdfe78922d1e1e4098068d3b9d92bc4d2b0d772cc4eacfba77d8620bd84a",
+      "bytes": 2003,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Shared Transcripts"
+    },
+    "cursor/help/ai-features/side-chats.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/side-chats",
+      "label": "Side chats",
+      "url": "https://cursor.com/help/ai-features/side-chats.md",
+      "sha256": "ace24b666a347064e1009119ee5ae55b7be1c880edaf6235ee2b650b1b39ec2a",
+      "bytes": 3786,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Side Chats"
+    },
+    "cursor/help/ai-features/tab.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/tab",
+      "label": "Tab completion",
+      "url": "https://cursor.com/help/ai-features/tab.md",
+      "sha256": "35acc5f8cc85ea4d12d92c195283c76d8dd7eaeafdd80b1f7a363aba748726e4",
+      "bytes": 1639,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Tab"
+    },
+    "cursor/help/ai-features/terminal.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/terminal",
+      "label": "Terminal integration",
+      "url": "https://cursor.com/help/ai-features/terminal.md",
+      "sha256": "93d0913a0d4173b13391bf965e47abcc01a2276e144ef374b209e0dd7e481c6f",
+      "bytes": 1816,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Terminal"
+    },
+    "cursor/help/ai-features/vibe-coding.md": {
+      "source": "cursor",
+      "section": "AI features",
+      "category_path": [
+        "Help Center",
+        "AI features"
+      ],
+      "slug": "help/ai-features/vibe-coding",
+      "label": "What is vibe coding?",
+      "url": "https://cursor.com/help/ai-features/vibe-coding.md",
+      "sha256": "ad7e7651122c6833643b6047067357bf21ab9a08f265e4af099229cd5c952710",
+      "bytes": 2409,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Vibe Coding"
+    },
+    "cursor/help/customization/context.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/context",
+      "label": "@ mentions and context",
+      "url": "https://cursor.com/help/customization/context.md",
+      "sha256": "d50808dbe27d415ef7c28a5dfca1154c54376949b1bcfd1ff28ea134e0ba6ecc",
+      "bytes": 1315,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Context"
+    },
+    "cursor/help/customization/extensions.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/extensions",
+      "label": "Extensions",
+      "url": "https://cursor.com/help/customization/extensions.md",
+      "sha256": "0fa256acc3f04bbdf2b60a1cf9e87360be2bfcb1f93c72189bbaf498bc67e48e",
+      "bytes": 5506,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Extensions"
+    },
+    "cursor/help/customization/ignore-files.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/ignore-files",
+      "label": "Ignore files",
+      "url": "https://cursor.com/help/customization/ignore-files.md",
+      "sha256": "93720fd8dbcb5fdd324357386d7f9d7bd2cefe89a9a52e91e4d73758b01296ae",
+      "bytes": 1306,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Ignore Files"
+    },
+    "cursor/help/customization/keyboard-shortcuts.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/keyboard-shortcuts",
+      "label": "Keyboard shortcuts",
+      "url": "https://cursor.com/help/customization/keyboard-shortcuts.md",
+      "sha256": "fd37aa98bbc87ce5e6a07d03ac76a50b054c0c03726f0ad27592a1ca43696c20",
+      "bytes": 1204,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Keyboard Shortcuts"
+    },
+    "cursor/help/customization/mcp.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/mcp",
+      "label": "MCP integrations",
+      "url": "https://cursor.com/help/customization/mcp.md",
+      "sha256": "8d55bd5060e3290ce39bfebecba40a5f6fa0d9ace102c5c23b47ab6fd5f61e3a",
+      "bytes": 4666,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "MCP"
+    },
+    "cursor/help/customization/plugins.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/plugins",
+      "label": "Plugins",
+      "url": "https://cursor.com/help/customization/plugins.md",
+      "sha256": "79fa63e5eee62de4c3148abbe7cfa4db86e0ec4965b4a9dd5d11d87afa165bdf",
+      "bytes": 1666,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Plugins"
+    },
+    "cursor/help/customization/rules.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/rules",
+      "label": "Rules",
+      "url": "https://cursor.com/help/customization/rules.md",
+      "sha256": "19e6d1c01e6cf141af61ce29b98baf8ad4aeda8d01b9055715b20d243c8d98c9",
+      "bytes": 6129,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Rules"
+    },
+    "cursor/help/customization/skills.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/skills",
+      "label": "Skills",
+      "url": "https://cursor.com/help/customization/skills.md",
+      "sha256": "65b210456d1a87965db3fe7a181bb881cf852ba215131faf41aa8cff84bc4d2e",
+      "bytes": 4764,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Skills"
+    },
+    "cursor/help/customization/themes.md": {
+      "source": "cursor",
+      "section": "Customization",
+      "category_path": [
+        "Help Center",
+        "Customization"
+      ],
+      "slug": "help/customization/themes",
+      "label": "Themes and appearance",
+      "url": "https://cursor.com/help/customization/themes.md",
+      "sha256": "c8ab4d308332160d7e5296643815bdb1ef1ed733210d4a8349d6e66fd1b80313",
+      "bytes": 2397,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Themes"
+    },
+    "cursor/help/getting-started/build-ai-coding-agent.md": {
+      "source": "cursor",
+      "section": "Getting started",
+      "category_path": [
+        "Help Center",
+        "Getting started"
+      ],
+      "slug": "help/getting-started/build-ai-coding-agent",
+      "label": "How do I build an AI coding agent?",
+      "url": "https://cursor.com/help/getting-started/build-ai-coding-agent.md",
+      "sha256": "34711e3803466767e1d113c277e4c2ff7ec39d68b09f93280eb79b39f1ee737e",
+      "bytes": 3079,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Build AI Coding Agent"
+    },
+    "cursor/help/getting-started/first-project.md": {
+      "source": "cursor",
+      "section": "Getting started",
+      "category_path": [
+        "Help Center",
+        "Getting started"
+      ],
+      "slug": "help/getting-started/first-project",
+      "label": "Your first project",
+      "url": "https://cursor.com/help/getting-started/first-project.md",
+      "sha256": "2bf336deb4e41738502a4dc617a6e1156acdb3b421c079ff11635a21db76c6cc",
+      "bytes": 1321,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "First Project"
+    },
+    "cursor/help/getting-started/install.md": {
+      "source": "cursor",
+      "section": "Getting started",
+      "category_path": [
+        "Help Center",
+        "Getting started"
+      ],
+      "slug": "help/getting-started/install",
+      "label": "Download and install Cursor",
+      "url": "https://cursor.com/help/getting-started/install.md",
+      "sha256": "543d60e70c642d4b2020a9496388ad63a3d07db7b96888a81134578762928be0",
+      "bytes": 1023,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Install"
+    },
+    "cursor/help/getting-started/migrate-jetbrains.md": {
+      "source": "cursor",
+      "section": "Getting started",
+      "category_path": [
+        "Help Center",
+        "Getting started"
+      ],
+      "slug": "help/getting-started/migrate-jetbrains",
+      "label": "Migrate from JetBrains",
+      "url": "https://cursor.com/help/getting-started/migrate-jetbrains.md",
+      "sha256": "e920b9c245ecb4b966ecf71017322d3da867fd41f08ec42e6a688fec4fe589da",
+      "bytes": 1385,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Migrate JetBrains"
+    },
+    "cursor/help/getting-started/migrate-vscode.md": {
+      "source": "cursor",
+      "section": "Getting started",
+      "category_path": [
+        "Help Center",
+        "Getting started"
+      ],
+      "slug": "help/getting-started/migrate-vscode",
+      "label": "Migrate from VS Code",
+      "url": "https://cursor.com/help/getting-started/migrate-vscode.md",
+      "sha256": "3f436926b429cf5e38628a3d8177299fdd3d417f097d9759dd31532d768649e9",
+      "bytes": 1529,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Migrate VS Code"
+    },
+    "cursor/help/grok-bot/computer-recovery.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/computer-recovery",
+      "label": "Recover Grok Bot computer data",
+      "url": "https://cursor.com/help/grok-bot/computer-recovery.md",
+      "sha256": "9c55d0a3cdf17283f19ee9b4ab47c58af64006970cdb47db8ee07801b1947688",
+      "bytes": 2588,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Computer Recovery"
+    },
+    "cursor/help/grok-bot/connect-plugins.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/connect-plugins",
+      "label": "Connect plugins",
+      "url": "https://cursor.com/help/grok-bot/connect-plugins.md",
+      "sha256": "6d898ca28e1f796944ab9e7d6990b88253a85bc89b184bc791d10fbf824bb6c7",
+      "bytes": 1713,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Connect Plugins"
+    },
+    "cursor/help/grok-bot/get-help.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/get-help",
+      "label": "Get help",
+      "url": "https://cursor.com/help/grok-bot/get-help.md",
+      "sha256": "029ce53261e383db70548ff7c71fac3495dc6f044435d520685f6e44d0b7b9b9",
+      "bytes": 810,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Get Help"
+    },
+    "cursor/help/grok-bot/getting-started.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/getting-started",
+      "label": "Getting started with Grok Bot",
+      "url": "https://cursor.com/help/grok-bot/getting-started.md",
+      "sha256": "e895d9b9d1dd14de04eb95266a91d6b165c391a59c1b682b62b1f60a98e6fdea",
+      "bytes": 6408,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Getting Started"
+    },
+    "cursor/help/grok-bot/mobile-purchase.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/mobile-purchase",
+      "label": "Subscribe from the mobile app",
+      "url": "https://cursor.com/help/grok-bot/mobile-purchase.md",
+      "sha256": "ac47fee534116c1775980757794e31f9bd41e249d7465cfec2e5c5cf74166f3d",
+      "bytes": 2116,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Mobile Purchase"
+    },
+    "cursor/help/grok-bot/mobile.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/mobile",
+      "label": "Grok Bot on mobile",
+      "url": "https://cursor.com/help/grok-bot/mobile.md",
+      "sha256": "1c04888ed6426c19893a8f1d19fa2bdae6ff9fe2897a7d80cab4e36e0e66b47f",
+      "bytes": 1677,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Mobile"
+    },
+    "cursor/help/grok-bot/plans.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/plans",
+      "label": "Plans and billing",
+      "url": "https://cursor.com/help/grok-bot/plans.md",
+      "sha256": "9f07edf1ddfd527a816797f20ca10b250d2e6aec1798f9e342bebb7a4e2c1311",
+      "bytes": 8584,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Plans"
+    },
+    "cursor/help/grok-bot/secrets.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/secrets",
+      "label": "Store secrets securely",
+      "url": "https://cursor.com/help/grok-bot/secrets.md",
+      "sha256": "94d16576d5eb22f172d70317926b4aaaf8b9d2f0e580d0388b1652384303be97",
+      "bytes": 530,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Secrets"
+    },
+    "cursor/help/grok-bot/sign-in.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/sign-in",
+      "label": "Sign in to Grok Bot",
+      "url": "https://cursor.com/help/grok-bot/sign-in.md",
+      "sha256": "64ae9a3de5a60d7741051fa2d16378ace22fc588262662cd00a34dbe13b9ad17",
+      "bytes": 3614,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Sign In"
+    },
+    "cursor/help/grok-bot/supergrok-heavy.md": {
+      "source": "cursor",
+      "section": "Grok Bot",
+      "category_path": [
+        "Help Center",
+        "Grok Bot"
+      ],
+      "slug": "help/grok-bot/supergrok-heavy",
+      "label": "Link SuperGrok for Grok Bot",
+      "url": "https://cursor.com/help/grok-bot/supergrok-heavy.md",
+      "sha256": "f94f21dfd1d0229aa3d5f3135310a9a2677038c3a6054a915c81fdfe804cf898",
+      "bytes": 5999,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Supergrok Heavy"
+    },
+    "cursor/help/integrations/cli.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Help Center",
+        "Integrations"
+      ],
+      "slug": "help/integrations/cli",
+      "label": "CLI",
+      "url": "https://cursor.com/help/integrations/cli.md",
+      "sha256": "df785a4617b29eead654bc07b19fe74e64d946a1384eae861edece5f3d0980a2",
+      "bytes": 2084,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "CLI"
+    },
+    "cursor/help/integrations/git.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Help Center",
+        "Integrations"
+      ],
+      "slug": "help/integrations/git",
+      "label": "Git",
+      "url": "https://cursor.com/help/integrations/git.md",
+      "sha256": "2929c268fb39fca1ccdbc8712fb36ab632f394e6b13a871d28e88e8320f7ec07",
+      "bytes": 2041,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Git"
+    },
+    "cursor/help/integrations/github-gitlab.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Help Center",
+        "Integrations"
+      ],
+      "slug": "help/integrations/github-gitlab",
+      "label": "GitHub, GitLab, Azure DevOps, and Bitbucket",
+      "url": "https://cursor.com/help/integrations/github-gitlab.md",
+      "sha256": "93de54257bcd93540fd669becb27c9f0c69b7ada23b6bd7d72256386d840f868",
+      "bytes": 1831,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "GitHub GitLab"
+    },
+    "cursor/help/integrations/third-party.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Help Center",
+        "Integrations"
+      ],
+      "slug": "help/integrations/third-party",
+      "label": "Linear, Slack, Notion, and other tools",
+      "url": "https://cursor.com/help/integrations/third-party.md",
+      "sha256": "661350e52740d27ad5672f2b299b0723976fd9614dd0d3922abde7f5db955851",
+      "bytes": 2607,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Third Party"
+    },
+    "cursor/help/models-and-usage/api-keys.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/api-keys",
+      "label": "Bring your own API key",
+      "url": "https://cursor.com/help/models-and-usage/api-keys.md",
+      "sha256": "262651d4abbee900f31ff6a0ff92585014856f640ee4f75ce44bcec85770a6d9",
+      "bytes": 2479,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "API Keys"
+    },
+    "cursor/help/models-and-usage/available-models.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/available-models",
+      "label": "Available models",
+      "url": "https://cursor.com/help/models-and-usage/available-models.md",
+      "sha256": "c7e6029a590580e64594e808a416f80548df7ea4415b7706085cd1f59d92335f",
+      "bytes": 7536,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Available Models"
+    },
+    "cursor/help/models-and-usage/cursor-router.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/cursor-router",
+      "label": "Cursor Router",
+      "url": "https://cursor.com/help/models-and-usage/cursor-router.md",
+      "sha256": "c2fc571a31c55f872f8657ca1ee34aeb0f9f225926b4d27e7ac02360903bb9c8",
+      "bytes": 3784,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cursor Router"
+    },
+    "cursor/help/models-and-usage/grok-4-5.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/grok-4-5",
+      "label": "Grok 4.5",
+      "url": "https://cursor.com/help/models-and-usage/grok-4-5.md",
+      "sha256": "523bd91c84ec6cf963247a0abec0a4c8aae320c48890b52e31adf275c557584d",
+      "bytes": 3157,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Grok 4 5"
+    },
+    "cursor/help/models-and-usage/grok-4-6.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/grok-4-6",
+      "label": "Grok 4.6",
+      "url": "https://cursor.com/help/models-and-usage/grok-4-6.md",
+      "sha256": "a98060632d33e373759e086be2e853627ae52364186932de14efcd79a3aeaff8",
+      "bytes": 4149,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Grok 4 6"
+    },
+    "cursor/help/models-and-usage/token-rate.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/token-rate",
+      "label": "Cursor Token Rate",
+      "url": "https://cursor.com/help/models-and-usage/token-rate.md",
+      "sha256": "579b556a6e728dcde760c521eb6af7c3621a937c679f610af12f2fc815aa3878",
+      "bytes": 1391,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Token Rate"
+    },
+    "cursor/help/models-and-usage/usage-limits.md": {
+      "source": "cursor",
+      "section": "Models and usage",
+      "category_path": [
+        "Help Center",
+        "Models and usage"
+      ],
+      "slug": "help/models-and-usage/usage-limits",
+      "label": "Usage and limits",
+      "url": "https://cursor.com/help/models-and-usage/usage-limits.md",
+      "sha256": "143c02a6860bf50f694c3540ab7db54fd88428347b8eca79b7c922d527fd375a",
+      "bytes": 3560,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Usage Limits"
+    },
+    "cursor/help/security-and-privacy/account-compromised.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/account-compromised",
+      "label": "Compromised account",
+      "url": "https://cursor.com/help/security-and-privacy/account-compromised.md",
+      "sha256": "5e919bd2955cee7b1ac84ecf093ab4184bc75c456ec027f462bcdee0f86f6d25",
+      "bytes": 2648,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Account Compromised"
+    },
+    "cursor/help/security-and-privacy/compliance.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/compliance",
+      "label": "Security and compliance documents",
+      "url": "https://cursor.com/help/security-and-privacy/compliance.md",
+      "sha256": "34e0ec56bea4343b38f7a335bfb3baea0f7a3f760625e7eaba882fcf72b1f3dd",
+      "bytes": 1032,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Compliance"
+    },
+    "cursor/help/security-and-privacy/marketplace-security.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/marketplace-security",
+      "label": "Marketplace security",
+      "url": "https://cursor.com/help/security-and-privacy/marketplace-security.md",
+      "sha256": "ae1053adc2be00c55109fe20eab46c94b0ec4712287a5a9a2d5d46cde8770048",
+      "bytes": 2685,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Marketplace Security"
+    },
+    "cursor/help/security-and-privacy/privacy.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/privacy",
+      "label": "Privacy and data",
+      "url": "https://cursor.com/help/security-and-privacy/privacy.md",
+      "sha256": "76d351a8830cd8d1390752565101d1ce5e139495025a4465877a48440223e238",
+      "bytes": 5440,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Privacy"
+    },
+    "cursor/help/security-and-privacy/regions.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/regions",
+      "label": "Regions and model availability",
+      "url": "https://cursor.com/help/security-and-privacy/regions.md",
+      "sha256": "856e558884bbfa8ba82c74880a22547e4e1672e9f490362cf8d295b2d4621dde",
+      "bytes": 2374,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Regions"
+    },
+    "cursor/help/security-and-privacy/sso.md": {
+      "source": "cursor",
+      "section": "Security and privacy",
+      "category_path": [
+        "Help Center",
+        "Security and privacy"
+      ],
+      "slug": "help/security-and-privacy/sso",
+      "label": "SSO and authentication",
+      "url": "https://cursor.com/help/security-and-privacy/sso.md",
+      "sha256": "95928e92faa9632f70b81bc62ecbf69c6a43cc84a497793fad593177c267a2c8",
+      "bytes": 1603,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "SSO"
+    },
+    "cursor/help/troubleshooting/agent-issues.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/agent-issues",
+      "label": "Agent troubleshooting",
+      "url": "https://cursor.com/help/troubleshooting/agent-issues.md",
+      "sha256": "0eeed885d38316d536b5c792a7c41ef5a812cb90cf85db40f8c5a9a32131b037",
+      "bytes": 3831,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Agent Issues"
+    },
+    "cursor/help/troubleshooting/extensions.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/extensions",
+      "label": "Extension conflicts",
+      "url": "https://cursor.com/help/troubleshooting/extensions.md",
+      "sha256": "36b4c0ee84eaa9371fa2f9bf394dcff9f7d2de3f7099a1d3d8e0a6da95af7cb7",
+      "bytes": 910,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Extensions"
+    },
+    "cursor/help/troubleshooting/install-issues.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/install-issues",
+      "label": "Installation and startup",
+      "url": "https://cursor.com/help/troubleshooting/install-issues.md",
+      "sha256": "9e242e02ef9d575fab591fae71fdbb0b950f3897900cfdbbcc59d62398236f96",
+      "bytes": 1597,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Install Issues"
+    },
+    "cursor/help/troubleshooting/network.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/network",
+      "label": "Network, proxy, and remote connections",
+      "url": "https://cursor.com/help/troubleshooting/network.md",
+      "sha256": "85a89a697b2fba43d18c85c02d4fae2e5f0d62e6b386afd7b6df11fcd57496d9",
+      "bytes": 2915,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Network"
+    },
+    "cursor/help/troubleshooting/performance.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/performance",
+      "label": "Performance",
+      "url": "https://cursor.com/help/troubleshooting/performance.md",
+      "sha256": "250e773f09db708b46394e7fe5450a00e01eefdae157196477850d400eeae360",
+      "bytes": 1140,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Performance"
+    },
+    "cursor/help/troubleshooting/reporting-bugs.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/reporting-bugs",
+      "label": "Reporting a bug",
+      "url": "https://cursor.com/help/troubleshooting/reporting-bugs.md",
+      "sha256": "8175d992c10cb2ea6f78f9c0e5ea2f82cdfcd0664bba63d8788294fe16d4a386",
+      "bytes": 3091,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Reporting Bugs"
+    },
+    "cursor/help/troubleshooting/tab-issues.md": {
+      "source": "cursor",
+      "section": "Troubleshooting",
+      "category_path": [
+        "Help Center",
+        "Troubleshooting"
+      ],
+      "slug": "help/troubleshooting/tab-issues",
+      "label": "How do I troubleshoot Tab completions?",
+      "url": "https://cursor.com/help/troubleshooting/tab-issues.md",
+      "sha256": "1c90ddc4a7948912f22565037e95f2d48ea28b7d25ece803d6737f73cefc179d",
+      "bytes": 1547,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Tab Issues"
+    },
+    "cursor/hooks.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "hooks",
+      "label": "Hooks",
+      "url": "https://cursor.com/docs/hooks.md",
+      "sha256": "cfc732d8d2f210cc34f5eb060eba7fd65a891159dc1cdb228f6171fb9cd1018a",
+      "bytes": 62514,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Hooks"
+    },
+    "cursor/integrations/azure-devops.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/azure-devops",
+      "label": "Azure DevOps",
+      "url": "https://cursor.com/docs/integrations/azure-devops.md",
+      "sha256": "c7e85587e68b06506586a141160d5b77822541df9c50faed588be6d92663a5be",
+      "bytes": 12634,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Azure Devops"
+    },
+    "cursor/integrations/bitbucket.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/bitbucket",
+      "label": "Bitbucket",
+      "url": "https://cursor.com/docs/integrations/bitbucket.md",
+      "sha256": "ba92765d52e4263f46f68240873317fb237fd921cfb91a664c250f7eb1c74952",
+      "bytes": 9788,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Bitbucket"
+    },
+    "cursor/integrations/cursor-blame.md": {
+      "source": "cursor",
+      "section": "Account",
+      "category_path": [
+        "Account"
+      ],
+      "slug": "integrations/cursor-blame",
+      "label": "Cursor Blame",
+      "url": "https://cursor.com/docs/integrations/cursor-blame.md",
+      "sha256": "8f5eed40d997dbdac2f36b05e89ba2725fda740f4ed5d9f2573db9c256b70a11",
+      "bytes": 3276,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cursor Blame"
+    },
+    "cursor/integrations/github.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/github",
+      "label": "GitHub",
+      "url": "https://cursor.com/docs/integrations/github.md",
+      "sha256": "a85477de53c40647cdf29cbfe0ad7f6c9016fc07ae22a1b1eede67dd43faf37f",
+      "bytes": 8624,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "GitHub"
+    },
+    "cursor/integrations/gitlab.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/gitlab",
+      "label": "GitLab",
+      "url": "https://cursor.com/docs/integrations/gitlab.md",
+      "sha256": "4f850145a7e6e0bfeffdcb0c9cb9d49081fa339dfe22ce65f539bbf72efbca24",
+      "bytes": 4985,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "GitLab"
+    },
+    "cursor/integrations/jetbrains.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/jetbrains",
+      "label": "JetBrains",
+      "url": "https://cursor.com/docs/integrations/jetbrains.md",
+      "sha256": "088e79280216081e3ff4af6fe92db294633268912f6efd22f5575c68bf46a18f",
+      "bytes": 2514,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "JetBrains"
+    },
+    "cursor/integrations/jira.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/jira",
+      "label": "Jira",
+      "url": "https://cursor.com/docs/integrations/jira.md",
+      "sha256": "ebae347e791364d2022a8d62937671b81504eb5bfd7222af8ec2846fa3a2fe72",
+      "bytes": 10936,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Jira"
+    },
+    "cursor/integrations/linear.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/linear",
+      "label": "Linear",
+      "url": "https://cursor.com/docs/integrations/linear.md",
+      "sha256": "7dbb3617f056d268af6ca9c2931fe41e490706a6825535ed537d3eef7008e33c",
+      "bytes": 5097,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Linear"
+    },
+    "cursor/integrations/microsoft-teams.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/microsoft-teams",
+      "label": "Microsoft Teams",
+      "url": "https://cursor.com/docs/integrations/microsoft-teams.md",
+      "sha256": "16629cc44d62859376b1a5e3e5ceabc723f8e72fb152f73efaf5ced3914c6a53",
+      "bytes": 8867,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Microsoft Teams"
+    },
+    "cursor/integrations/notion.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/notion",
+      "label": "Notion",
+      "url": "https://cursor.com/docs/integrations/notion.md",
+      "sha256": "04018a44c8ce31d1af27f5c445a8d2f5d0103ef0e51692163fff959868d5f701",
+      "bytes": 4738,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Notion"
+    },
+    "cursor/integrations/slack.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/slack",
+      "label": "Slack",
+      "url": "https://cursor.com/docs/integrations/slack.md",
+      "sha256": "a8dda2d49215942a3fb8a4039a3307a1212db52a126a7be882a2daaa7a8defa5",
+      "bytes": 14515,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Slack"
+    },
+    "cursor/integrations/xcode.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "integrations/xcode",
+      "label": "Xcode",
+      "url": "https://cursor.com/docs/integrations/xcode.md",
+      "sha256": "04775562c95a29b505552f09515150ddf019f11e4bfe93ed46ca81e5ce97a25b",
+      "bytes": 6020,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Xcode"
+    },
+    "cursor/mcp.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "mcp",
+      "label": "Model Context Protocol (MCP)",
+      "url": "https://cursor.com/docs/mcp.md",
+      "sha256": "1bbd67fb28afd37b34ac961d63c0e1577f3ec4fe94ecab08b1bdefa4c751715d",
+      "bytes": 16752,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "MCP"
+    },
+    "cursor/models-and-pricing.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models-and-pricing",
+      "label": "Models & Pricing",
+      "url": "https://cursor.com/docs/models-and-pricing.md",
+      "sha256": "67f4b9d0c0aa1a5b0840cdc322c5d5c86a3b820271996af07df4667b7fdc1757",
+      "bytes": 33407,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Models And Pricing"
+    },
+    "cursor/models/claude-fable-5.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/claude-fable-5",
+      "label": "Claude Fable 5",
+      "url": "https://cursor.com/docs/models/claude-fable-5.md",
+      "sha256": "37cb245b16ae8834222bed9e1ebb8b05978f3329fd05672a8616daf6548ea9ee",
+      "bytes": 4833,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Claude Fable 5"
+    },
+    "cursor/models/claude-opus-5.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/claude-opus-5",
+      "label": "Claude Opus 5",
+      "url": "https://cursor.com/docs/models/claude-opus-5.md",
+      "sha256": "484e1e7f726475aea33dfc155562599e15b28b54fed4a74e612995fcf7bf088d",
+      "bytes": 2354,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Claude Opus 5"
+    },
+    "cursor/models/claude-sonnet-5.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/claude-sonnet-5",
+      "label": "Claude Sonnet 5",
+      "url": "https://cursor.com/docs/models/claude-sonnet-5.md",
+      "sha256": "e035fe34b4ccf2f4b46dd18eea7cc84f8cb9162c6858bfc1362354975ad498fb",
+      "bytes": 1828,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Claude Sonnet 5"
+    },
+    "cursor/models/cursor-composer-2-5.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/cursor-composer-2-5",
+      "label": "Cursor Composer 2 5",
+      "url": "https://cursor.com/docs/models/cursor-composer-2-5.md",
+      "sha256": "00f8a964172adfafa20367f88e9a3464a8d17bbb234d9fb49c92cecdf3ab1efa",
+      "bytes": 1279,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Cursor Composer 2 5"
+    },
+    "cursor/models/gemini-3-1-pro.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/gemini-3-1-pro",
+      "label": "Gemini 3 1 Pro",
+      "url": "https://cursor.com/docs/models/gemini-3-1-pro.md",
+      "sha256": "2aa3bdcf5c3e63a8e697f8a5ab71e64953ce4e38080050aa25e6c1af5e3fd2d7",
+      "bytes": 1214,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Gemini 3 1 Pro"
+    },
+    "cursor/models/gemini-3-7-flash.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/gemini-3-7-flash",
+      "label": "Gemini 3 7 Flash",
+      "url": "https://cursor.com/docs/models/gemini-3-7-flash.md",
+      "sha256": "5c98bf86a320a9b3d84a5ba4644fc15fe2273e55673dbc9b3cb033c5e0bd6fa1",
+      "bytes": 1150,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Gemini 3 7 Flash"
+    },
+    "cursor/models/gpt-5-6-luna.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/gpt-5-6-luna",
+      "label": "Gpt 5 6 Luna",
+      "url": "https://cursor.com/docs/models/gpt-5-6-luna.md",
+      "sha256": "19415d1f0f43c2c92bee8ab87a26321375bb390856b351b1d503b51593ceacc5",
+      "bytes": 1465,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Gpt 5 6 Luna"
+    },
+    "cursor/models/gpt-5-6-sol.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/gpt-5-6-sol",
+      "label": "Gpt 5 6 Sol",
+      "url": "https://cursor.com/docs/models/gpt-5-6-sol.md",
+      "sha256": "270139a697d2c11c5d42a4ccfe80d61dcd72bbccf515acde5911046d7f2f10d7",
+      "bytes": 1874,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Gpt 5 6 Sol"
+    },
+    "cursor/models/gpt-5-6-terra.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/gpt-5-6-terra",
+      "label": "Gpt 5 6 Terra",
+      "url": "https://cursor.com/docs/models/gpt-5-6-terra.md",
+      "sha256": "d7c9f08c0b4dd13dda55f11ea4e506ff239e2cf5ceca3bbbef82f300da6eef47",
+      "bytes": 1442,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Gpt 5 6 Terra"
+    },
+    "cursor/models/grok-4-5.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/grok-4-5",
+      "label": "Grok 4 5",
+      "url": "https://cursor.com/docs/models/grok-4-5.md",
+      "sha256": "4a515354b19c520b0dd2bba7cdcc5ed4dd99c7b40d279284c1a20435457717a3",
+      "bytes": 1983,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Grok 4 5"
+    },
+    "cursor/models/grok-4-6.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "models/grok-4-6",
+      "label": "Grok 4 6",
+      "url": "https://cursor.com/docs/models/grok-4-6.md",
+      "sha256": "1a7aac20114b3006c657313fc130d2eabada94b1e43ffd37ed47cdbbe2008948",
+      "bytes": 1542,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Grok 4 6"
+    },
+    "cursor/origin.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin",
+      "label": "Origin",
+      "url": "https://cursor.com/docs/origin.md",
+      "sha256": "ddbb0a90ccc0d7c8f62a7f931569babffda7bdf3632f548f4ed884d1cb898f08",
+      "bytes": 3949,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Origin"
+    },
+    "cursor/origin/browse.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/browse",
+      "label": "Browse & Search",
+      "url": "https://cursor.com/docs/origin/browse.md",
+      "sha256": "eb05c29b40113ac7646cc3cbfb5ec95afaf75dc2dbcd009a24feb4cb056588a3",
+      "bytes": 1621,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Browse"
+    },
+    "cursor/origin/cli.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/cli",
+      "label": "Install the CLI",
+      "url": "https://cursor.com/docs/origin/cli.md",
+      "sha256": "99b1ca453cf4f557e38c69caee0dd72056d6359ead219d13f5fb183e5129240b",
+      "bytes": 2783,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "CLI"
+    },
+    "cursor/origin/cli/reference/commands.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/cli/reference/commands",
+      "label": "Commands",
+      "url": "https://cursor.com/docs/origin/cli/reference/commands.md",
+      "sha256": "188008f434e1edf8ccad4388b2446e964b23f88a5052d8bb994dc43e916de635",
+      "bytes": 11737,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Commands"
+    },
+    "cursor/origin/cli/reference/pull-requests.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/cli/reference/pull-requests",
+      "label": "Pull request commands",
+      "url": "https://cursor.com/docs/origin/cli/reference/pull-requests.md",
+      "sha256": "3aa9b41853904e8086a6e058ae056ad93f48e990a8b0ffb8a4326f7dd8a7d3bb",
+      "bytes": 14033,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Pull Requests"
+    },
+    "cursor/origin/codebase-settings.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/codebase-settings",
+      "label": "Codebase settings",
+      "url": "https://cursor.com/docs/origin/codebase-settings.md",
+      "sha256": "0e631122a466c7879001eb80db5f014ae6bcc6162b57b65fc1af97fcae1f22b8",
+      "bytes": 2346,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Codebase Settings"
+    },
+    "cursor/origin/create-repository.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/create-repository",
+      "label": "Create an Origin repository",
+      "url": "https://cursor.com/docs/origin/create-repository.md",
+      "sha256": "91876877510539b41416ad343381c664b49fec519a43099454e843533238d503",
+      "bytes": 2826,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Create Repository"
+    },
+    "cursor/origin/git.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/git",
+      "label": "Clone, Push & Pull",
+      "url": "https://cursor.com/docs/origin/git.md",
+      "sha256": "79b894936fc3a53afe3a1bbae60e327af0348a51cd8764d0badfaa4f7bb17c42",
+      "bytes": 2142,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Git"
+    },
+    "cursor/origin/integrations.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/integrations",
+      "label": "Integrations",
+      "url": "https://cursor.com/docs/origin/integrations.md",
+      "sha256": "cfa6d04b5266d8c80298dedbcacb277463eff5510ad0c70ab052cb8c290f6cff",
+      "bytes": 2163,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Integrations"
+    },
+    "cursor/origin/mirror-github.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/mirror-github",
+      "label": "Mirror a GitHub repository",
+      "url": "https://cursor.com/docs/origin/mirror-github.md",
+      "sha256": "83842dca857601d8d1cd067b18ee163051bf69f28fca1bb077b1d12f9ed0f8a5",
+      "bytes": 3548,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Mirror GitHub"
+    },
+    "cursor/origin/pull-requests.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/pull-requests",
+      "label": "Pull requests",
+      "url": "https://cursor.com/docs/origin/pull-requests.md",
+      "sha256": "5ece5460df0bd7d0e96bcdf2f712d859280a4b24aab66c1e27e670aebe20a61b",
+      "bytes": 2111,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Pull Requests"
+    },
+    "cursor/origin/settings.md": {
+      "source": "cursor",
+      "section": "origin",
+      "category_path": [
+        "origin"
+      ],
+      "slug": "origin/settings",
+      "label": "Settings",
+      "url": "https://cursor.com/docs/origin/settings.md",
+      "sha256": "d246d7c31a4206ab44f129e3a6e616577215a785bc488f38f74001c46af8a253",
+      "bytes": 3251,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Settings"
+    },
+    "cursor/overview.md": {
+      "source": "cursor",
+      "section": "Get Started",
+      "category_path": [
+        "Get Started"
+      ],
+      "slug": "overview",
+      "label": "Cursor Documentation",
+      "url": "https://cursor.com/docs.md",
+      "sha256": "738d706f6c0315105a6e58fae1a60dc92f9b1e3fb4e61f93ddd6c8bb366c38f0",
+      "bytes": 30290,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Overview"
+    },
+    "cursor/plugins.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "plugins",
+      "label": "Plugins",
+      "url": "https://cursor.com/docs/plugins.md",
+      "sha256": "79070b023ca686f11df42a8ab1c0859b2e1148a18d94f3628169b79602e4efd0",
+      "bytes": 14463,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Plugins"
+    },
+    "cursor/reference/deeplinks.md": {
+      "source": "cursor",
+      "section": "Integrations",
+      "category_path": [
+        "Integrations"
+      ],
+      "slug": "reference/deeplinks",
+      "label": "Deeplinks",
+      "url": "https://cursor.com/docs/reference/deeplinks.md",
+      "sha256": "7e91b22eaa0883aad2a0f01c2eada3caa173a673bb638c199ef18baf2e8396be",
+      "bytes": 5971,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Deeplinks"
+    },
+    "cursor/rules.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "rules",
+      "label": "Rules",
+      "url": "https://cursor.com/docs/rules.md",
+      "sha256": "cf6fc312cacbdab72daca7d7661b762f263662fcdeec58b0e11c6ed0ff78f7c3",
+      "bytes": 16636,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Rules"
+    },
+    "cursor/sdk/bridge.md": {
+      "source": "cursor",
+      "section": "SDK",
+      "category_path": [
+        "SDK"
+      ],
+      "slug": "sdk/bridge",
+      "label": "Cursor SDK Bridge",
+      "url": "https://cursor.com/docs/sdk/bridge.md",
+      "sha256": "79539546719331cf0c4ef1c6d25260a00810449f3580e0fc2621fd74ba3a3a56",
+      "bytes": 9657,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Bridge"
+    },
+    "cursor/sdk/changelog.md": {
+      "source": "cursor",
+      "section": "SDK",
+      "category_path": [
+        "SDK"
+      ],
+      "slug": "sdk/changelog",
+      "label": "SDK Changelog",
+      "url": "https://cursor.com/docs/sdk/changelog.md",
+      "sha256": "0bd4a81afffd900a794d352917801b603afa21421cb55daac65149d9a310d9b0",
+      "bytes": 5949,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Changelog"
+    },
+    "cursor/sdk/python.md": {
+      "source": "cursor",
+      "section": "SDK",
+      "category_path": [
+        "SDK"
+      ],
+      "slug": "sdk/python",
+      "label": "Cursor Python SDK",
+      "url": "https://cursor.com/docs/sdk/python.md",
+      "sha256": "2dac383e6c77e643ed66ec6f4aba79936e50c22553b5fb2678143aa8f7d5c6cf",
+      "bytes": 90243,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Python"
+    },
+    "cursor/sdk/typescript.md": {
+      "source": "cursor",
+      "section": "SDK",
+      "category_path": [
+        "SDK"
+      ],
+      "slug": "sdk/typescript",
+      "label": "Cursor TypeScript SDK",
+      "url": "https://cursor.com/docs/sdk/typescript.md",
+      "sha256": "907a70ffcb5bf330acd05319d04dea626c32737998c34519308b5c28a0a68bc6",
+      "bytes": 117440,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Typescript"
+    },
+    "cursor/security-agents.md": {
+      "source": "cursor",
+      "section": "cloud-agents",
+      "category_path": [
+        "cloud-agents"
+      ],
+      "slug": "security-agents",
+      "label": "Security Agents",
+      "url": "https://cursor.com/docs/security-agents.md",
+      "sha256": "8096b030c076c08ecab2088c31eccfa22d3c533cccf2c24e6b277980641c1b49",
+      "bytes": 4279,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Security Agents"
+    },
+    "cursor/skills.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "skills",
+      "label": "Agent Skills",
+      "url": "https://cursor.com/docs/skills.md",
+      "sha256": "17cebe1e48a1cea983d4080bf3592e57548f3444b938f498d91cce981626b46b",
+      "bytes": 15146,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Skills"
+    },
+    "cursor/subagents.md": {
+      "source": "cursor",
+      "section": "customizing",
+      "category_path": [
+        "customizing"
+      ],
+      "slug": "subagents",
+      "label": "Subagents",
+      "url": "https://cursor.com/docs/subagents.md",
+      "sha256": "03e3f64e0bb55ae1ce3c2eaf11669254192a6d8f681a72258b4dd5ed03efbd5c",
+      "bytes": 25868,
+      "fetched_at": "2026-08-23T16:36:54Z",
+      "sidebar_label": "Subagents"
+    }
+  }
+}

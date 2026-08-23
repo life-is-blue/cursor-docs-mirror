@@ -1,0 +1,52 @@
+name: Update Cursor Docs Mirror
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      strict_fetch:
+        description: "1=fail on any fetch error, 0=tolerant mode"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cursor-docs-mirror
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch docs
+        env:
+          STRICT_FETCH: ${{ github.event.inputs.strict_fetch || '0' }}
+        run: python scripts/fetch_cursor_docs.py
+
+      - name: Commit and push when changed
+        run: |
+          if [[ -z "$(git status --porcelain docs/)" ]]; then
+            echo "No docs changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git commit -m "chore: sync docs $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          git push
