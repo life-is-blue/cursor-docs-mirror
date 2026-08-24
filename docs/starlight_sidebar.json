@@ -70,7 +70,7 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Overview",
+        "label": "Cursor Agent",
         "slug": "cursor/agent/overview"
       },
       {
@@ -98,7 +98,7 @@
         "slug": "cursor/agent/design-mode"
       },
       {
-        "label": "Security",
+        "label": "Agent Security",
         "slug": "cursor/agent/security"
       },
       {
@@ -198,11 +198,11 @@
         "slug": "cursor/approval-agents"
       },
       {
-        "label": "Cursor for iOS",
+        "label": "Mobile",
         "slug": "cursor/cloud-agent/mobile"
       },
       {
-        "label": "Settings",
+        "label": "Cloud Agents settings",
         "slug": "cursor/cloud-agent/settings"
       },
       {
@@ -348,7 +348,7 @@
     "collapsed": true,
     "items": [
       {
-        "label": "TypeScript",
+        "label": "Cursor TypeScript SDK",
         "slug": "cursor/sdk/typescript"
       },
       {
@@ -438,7 +438,7 @@
         "slug": "cursor/cli/reference/permissions"
       },
       {
-        "label": "Slash Commands",
+        "label": "Slash commands",
         "slug": "cursor/cli/reference/slash-commands"
       }
     ]
@@ -736,7 +736,7 @@
             "slug": "cursor/help/ai-features/side-chats"
           },
           {
-            "label": "Tab",
+            "label": "Tab completion",
             "slug": "cursor/help/ai-features/tab"
           },
           {
@@ -762,7 +762,7 @@
             "slug": "cursor/help/customization/extensions"
           },
           {
-            "label": "Ignore Files",
+            "label": "Ignore files",
             "slug": "cursor/help/customization/ignore-files"
           },
           {
@@ -834,7 +834,7 @@
             "slug": "cursor/help/grok-bot/get-help"
           },
           {
-            "label": "Getting Started",
+            "label": "Getting started with Grok Bot",
             "slug": "cursor/help/grok-bot/getting-started"
           },
           {
@@ -854,7 +854,7 @@
             "slug": "cursor/help/grok-bot/secrets"
           },
           {
-            "label": "Sign in to Grok Bot",
+            "label": "Sign In",
             "slug": "cursor/help/grok-bot/sign-in"
           },
           {
@@ -890,11 +890,11 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Bring your own API key",
+            "label": "API Keys",
             "slug": "cursor/help/models-and-usage/api-keys"
           },
           {
-            "label": "Available Models",
+            "label": "Available models",
             "slug": "cursor/help/models-and-usage/available-models"
           },
           {
