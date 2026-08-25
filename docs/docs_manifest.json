@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:05:42Z",
+  "generated_at": "2026-08-25T01:43:39Z",
   "tool": "scripts/fetch_cursor_docs.py",
   "strict_fetch": false,
   "is_degraded": false,
@@ -15,7 +15,7 @@
   "sidebar_file": "docs/starlight_sidebar.json",
   "summary_file": "docs/SUMMARY.md",
   "stats": {
-    "total_pages": 215,
+    "total_pages": 221,
     "synced_pages": 215,
     "removed_files": 0,
     "invariants_passed": true
@@ -2980,9 +2980,9 @@
       "slug": "overview",
       "label": "Cursor Documentation",
       "url": "https://cursor.com/docs.md",
-      "sha256": "738d706f6c0315105a6e58fae1a60dc92f9b1e3fb4e61f93ddd6c8bb366c38f0",
+      "sha256": "1115eff845a08b50756f9f4e34605e712c89fa03f8f72b19d97a5c5251e3a0a6",
       "bytes": 30290,
-      "fetched_at": "2026-08-23T16:36:54Z",
+      "fetched_at": "2026-08-25T01:03:23Z",
       "sidebar_label": "Welcome"
     },
     "cursor/plugins.md": {

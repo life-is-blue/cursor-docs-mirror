@@ -16,7 +16,7 @@
         "slug": "cursor/cursor-router"
       },
       {
-        "label": "Models & Pricing",
+        "label": "Models And Pricing",
         "slug": "cursor/models-and-pricing"
       },
       {
@@ -70,7 +70,7 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Cursor Agent",
+        "label": "Overview",
         "slug": "cursor/agent/overview"
       },
       {
@@ -82,15 +82,15 @@
         "slug": "cursor/agent/agent-review"
       },
       {
-        "label": "Plan Mode",
+        "label": "Planning",
         "slug": "cursor/agent/plan-mode"
       },
       {
-        "label": "Prompting agents",
+        "label": "Prompting",
         "slug": "cursor/agent/prompting"
       },
       {
-        "label": "Debug Mode",
+        "label": "Debugging",
         "slug": "cursor/agent/debug-mode"
       },
       {
@@ -98,7 +98,7 @@
         "slug": "cursor/agent/design-mode"
       },
       {
-        "label": "Agent Security",
+        "label": "Security",
         "slug": "cursor/agent/security"
       },
       {
@@ -110,7 +110,7 @@
         "slug": "cursor/agent/tools/browser"
       },
       {
-        "label": "Canvases",
+        "label": "Canvas",
         "slug": "cursor/agent/tools/canvas"
       },
       {
@@ -132,7 +132,7 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Customize Cursor",
+        "label": "Overview",
         "slug": "cursor/customize-cursor"
       },
       {
@@ -144,7 +144,7 @@
         "slug": "cursor/rules"
       },
       {
-        "label": "Agent Skills",
+        "label": "Skills",
         "slug": "cursor/skills"
       },
       {
@@ -156,7 +156,7 @@
         "slug": "cursor/hooks"
       },
       {
-        "label": "Model Context Protocol (MCP)",
+        "label": "MCP",
         "slug": "cursor/mcp"
       }
     ]
@@ -166,15 +166,15 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Cloud Agents",
+        "label": "Overview",
         "slug": "cursor/cloud-agent"
       },
       {
-        "label": "Cloud Environment Setup",
+        "label": "Setup",
         "slug": "cursor/cloud-agent/setup"
       },
       {
-        "label": "Cloud Agent Builds",
+        "label": "Builds",
         "slug": "cursor/cloud-agent/builds"
       },
       {
@@ -202,11 +202,11 @@
         "slug": "cursor/cloud-agent/mobile"
       },
       {
-        "label": "Cloud Agents settings",
+        "label": "Settings",
         "slug": "cursor/cloud-agent/settings"
       },
       {
-        "label": "Cloud Agents API",
+        "label": "API",
         "slug": "cursor/cloud-agent/api/endpoints"
       },
       {
@@ -214,11 +214,11 @@
         "slug": "cursor/cloud-agent/capabilities"
       },
       {
-        "label": "OIDC tokens",
+        "label": "Identity",
         "slug": "cursor/cloud-agent/identity"
       },
       {
-        "label": "Agent metadata",
+        "label": "Metadata",
         "slug": "cursor/cloud-agent/metadata"
       },
       {
@@ -226,11 +226,11 @@
         "slug": "cursor/cloud-agent/private-connectivity"
       },
       {
-        "label": "Security overview",
+        "label": "Security",
         "slug": "cursor/cloud-agent/security"
       },
       {
-        "label": "Secrets & Network",
+        "label": "Security Network",
         "slug": "cursor/cloud-agent/security-network"
       }
     ]
@@ -240,11 +240,11 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Origin",
+        "label": "Overview",
         "slug": "cursor/origin"
       },
       {
-        "label": "Create an Origin repository",
+        "label": "Create a repository",
         "slug": "cursor/origin/create-repository"
       },
       {
@@ -252,7 +252,7 @@
         "slug": "cursor/origin/git"
       },
       {
-        "label": "Mirror a GitHub repository",
+        "label": "Mirror GitHub",
         "slug": "cursor/origin/mirror-github"
       },
       {
@@ -276,7 +276,7 @@
         "slug": "cursor/origin/integrations"
       },
       {
-        "label": "Install the CLI",
+        "label": "CLI",
         "slug": "cursor/origin/cli"
       },
       {
@@ -284,7 +284,7 @@
         "slug": "cursor/origin/cli/reference/commands"
       },
       {
-        "label": "Pull request commands",
+        "label": "Pull Requests",
         "slug": "cursor/origin/cli/reference/pull-requests"
       }
     ]
@@ -348,19 +348,19 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Cursor TypeScript SDK",
+        "label": "TypeScript",
         "slug": "cursor/sdk/typescript"
       },
       {
-        "label": "Cursor Python SDK",
+        "label": "Python",
         "slug": "cursor/sdk/python"
       },
       {
-        "label": "Cursor SDK Bridge",
+        "label": "Bridge",
         "slug": "cursor/sdk/bridge"
       },
       {
-        "label": "SDK Changelog",
+        "label": "Changelog",
         "slug": "cursor/sdk/changelog"
       }
     ]
@@ -370,7 +370,7 @@
     "collapsed": true,
     "items": [
       {
-        "label": "Cursor CLI",
+        "label": "Overview",
         "slug": "cursor/cli/overview"
       },
       {
@@ -378,11 +378,11 @@
         "slug": "cursor/cli/installation"
       },
       {
-        "label": "Using Agent in CLI",
+        "label": "Capabilities",
         "slug": "cursor/cli/using"
       },
       {
-        "label": "CLI Changelog",
+        "label": "Changelog",
         "slug": "cursor/cli/changelog"
       },
       {
@@ -394,7 +394,7 @@
         "slug": "cursor/cli/acp"
       },
       {
-        "label": "Using Headless CLI",
+        "label": "Headless / CI",
         "slug": "cursor/cli/headless"
       },
       {
@@ -420,11 +420,11 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Output format",
+            "label": "Output Format",
             "slug": "cursor/cli/reference/output-format"
           },
           {
-            "label": "Terminal setup",
+            "label": "Terminal Setup",
             "slug": "cursor/cli/reference/terminal-setup"
           }
         ]
@@ -438,7 +438,7 @@
         "slug": "cursor/cli/reference/permissions"
       },
       {
-        "label": "Slash commands",
+        "label": "Slash Commands",
         "slug": "cursor/cli/reference/slash-commands"
       }
     ]
@@ -460,7 +460,7 @@
         "slug": "cursor/account/enterprise/service-accounts"
       },
       {
-        "label": "Usage Analytics",
+        "label": "Analytics",
         "slug": "cursor/account/teams/analytics"
       },
       {
@@ -468,11 +468,11 @@
         "slug": "cursor/account/teams/dashboard"
       },
       {
-        "label": "Members, Roles, and Seat Types",
+        "label": "Members",
         "slug": "cursor/account/teams/members"
       },
       {
-        "label": "Team Pricing",
+        "label": "Pricing",
         "slug": "cursor/account/teams/pricing"
       },
       {
@@ -480,7 +480,7 @@
         "slug": "cursor/account/teams/scim"
       },
       {
-        "label": "Get Started",
+        "label": "Setup",
         "slug": "cursor/account/teams/setup"
       },
       {
@@ -496,11 +496,11 @@
         "slug": "cursor/enterprise/admin-setup-guide"
       },
       {
-        "label": "HIPAA Business Associate Agreements",
+        "label": "BAA",
         "slug": "cursor/enterprise/baa"
       },
       {
-        "label": "Compliance and Monitoring",
+        "label": "Compliance And Monitoring",
         "slug": "cursor/enterprise/compliance-and-monitoring"
       },
       {
@@ -508,19 +508,19 @@
         "slug": "cursor/enterprise/deployment-patterns"
       },
       {
-        "label": "Endpoint Security Configuration",
+        "label": "Endpoint Security",
         "slug": "cursor/enterprise/endpoint-security"
       },
       {
-        "label": "Identity and Access Management",
+        "label": "Identity And Access Management",
         "slug": "cursor/enterprise/identity-and-access-management"
       },
       {
-        "label": "LLM Safety and Controls",
+        "label": "LLM Safety And Controls",
         "slug": "cursor/enterprise/llm-safety-and-controls"
       },
       {
-        "label": "Model and Integration Management",
+        "label": "Model And Integration Management",
         "slug": "cursor/enterprise/model-and-integration-management"
       },
       {
@@ -528,11 +528,11 @@
         "slug": "cursor/enterprise/network-configuration"
       },
       {
-        "label": "OpenTelemetry Export",
+        "label": "Opentelemetry Export",
         "slug": "cursor/enterprise/opentelemetry-export"
       },
       {
-        "label": "OpenTelemetry Export Wire Reference",
+        "label": "Wire",
         "slug": "cursor/enterprise/opentelemetry-export/wire"
       },
       {
@@ -544,15 +544,15 @@
         "slug": "cursor/enterprise/organizations"
       },
       {
-        "label": "Pooled usage",
+        "label": "Pooled Usage",
         "slug": "cursor/enterprise/pooled-usage"
       },
       {
-        "label": "Privacy and Data Governance",
+        "label": "Privacy And Data Governance",
         "slug": "cursor/enterprise/privacy-and-data-governance"
       },
       {
-        "label": "Security and Privacy Hardening",
+        "label": "Security Hardening",
         "slug": "cursor/enterprise/security-hardening"
       },
       {
@@ -570,23 +570,23 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Subscribe from the iOS app",
+            "label": "App Store Subscription",
             "slug": "cursor/help/account-and-billing/app-store-subscription"
           },
           {
-            "label": "Billing and payments",
+            "label": "Billing",
             "slug": "cursor/help/account-and-billing/billing"
           },
           {
-            "label": "Bugbot usage-based billing",
+            "label": "Bugbot Usage Based Billing",
             "slug": "cursor/help/account-and-billing/bugbot-usage-based-billing"
           },
           {
-            "label": "Cancel your subscription",
+            "label": "Cancel",
             "slug": "cursor/help/account-and-billing/cancel"
           },
           {
-            "label": "Change your email address",
+            "label": "Change Email",
             "slug": "cursor/help/account-and-billing/change-email"
           },
           {
@@ -594,11 +594,11 @@
             "slug": "cursor/help/account-and-billing/cursor-start"
           },
           {
-            "label": "Delete your account",
+            "label": "Delete Account",
             "slug": "cursor/help/account-and-billing/delete-account"
           },
           {
-            "label": "Enterprise billing",
+            "label": "Enterprise",
             "slug": "cursor/help/account-and-billing/enterprise"
           },
           {
@@ -606,19 +606,19 @@
             "slug": "cursor/help/account-and-billing/invoices"
           },
           {
-            "label": "Usage-based charges",
+            "label": "Overages",
             "slug": "cursor/help/account-and-billing/overages"
           },
           {
-            "label": "Payment issues",
+            "label": "Payment Issues",
             "slug": "cursor/help/account-and-billing/payment-issues"
           },
           {
-            "label": "Payment completed but plan not updated",
+            "label": "Payment Not Applied",
             "slug": "cursor/help/account-and-billing/payment-not-applied"
           },
           {
-            "label": "Pricing and plans",
+            "label": "Pricing",
             "slug": "cursor/help/account-and-billing/pricing"
           },
           {
@@ -626,7 +626,7 @@
             "slug": "cursor/help/account-and-billing/profiles"
           },
           {
-            "label": "Referral program",
+            "label": "Referral Program",
             "slug": "cursor/help/account-and-billing/referral-program"
           },
           {
@@ -634,23 +634,23 @@
             "slug": "cursor/help/account-and-billing/refunds"
           },
           {
-            "label": "Spend alerts",
+            "label": "Spend Alerts",
             "slug": "cursor/help/account-and-billing/spend-alerts"
           },
           {
-            "label": "Spend limits",
+            "label": "Spend Limits",
             "slug": "cursor/help/account-and-billing/spend-limits"
           },
           {
-            "label": "Student discount",
+            "label": "Student Discount",
             "slug": "cursor/help/account-and-billing/student-discount"
           },
           {
-            "label": "Manage your team",
+            "label": "Teams Management",
             "slug": "cursor/help/account-and-billing/teams-management"
           },
           {
-            "label": "Set up a team",
+            "label": "Teams Setup",
             "slug": "cursor/help/account-and-billing/teams-setup"
           }
         ]
@@ -660,19 +660,19 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Agent mode",
+            "label": "Agent",
             "slug": "cursor/help/ai-features/agent"
           },
           {
-            "label": "What is agentic coding?",
+            "label": "Agentic Coding",
             "slug": "cursor/help/ai-features/agentic-coding"
           },
           {
-            "label": "How does AI pair programming work in Cursor?",
+            "label": "AI Pair Programming",
             "slug": "cursor/help/ai-features/ai-pair-programming"
           },
           {
-            "label": "Ask mode",
+            "label": "Ask Mode",
             "slug": "cursor/help/ai-features/ask-mode"
           },
           {
@@ -680,11 +680,11 @@
             "slug": "cursor/help/ai-features/automations"
           },
           {
-            "label": "What are background agents?",
+            "label": "Background Agents",
             "slug": "cursor/help/ai-features/background-agents"
           },
           {
-            "label": "Browser use",
+            "label": "Browser",
             "slug": "cursor/help/ai-features/browser"
           },
           {
@@ -696,55 +696,55 @@
             "slug": "cursor/help/ai-features/cloud-agents"
           },
           {
-            "label": "What are coding agents?",
+            "label": "Coding Agents",
             "slug": "cursor/help/ai-features/coding-agents"
           },
           {
-            "label": "Conversation search",
+            "label": "Conversation Search",
             "slug": "cursor/help/ai-features/conversation-search"
           },
           {
-            "label": "Debug mode",
+            "label": "Debug Mode",
             "slug": "cursor/help/ai-features/debug-mode"
           },
           {
-            "label": "Inline edit",
+            "label": "Inline Edit",
             "slug": "cursor/help/ai-features/inline-edit"
           },
           {
-            "label": "Max Mode on legacy plans",
+            "label": "Max Mode",
             "slug": "cursor/help/ai-features/max-mode"
           },
           {
-            "label": "Cursor for iOS",
+            "label": "Mobile App",
             "slug": "cursor/help/ai-features/mobile-app"
           },
           {
-            "label": "What is multi-agent coding?",
+            "label": "Multi Agent",
             "slug": "cursor/help/ai-features/multi-agent"
           },
           {
-            "label": "Plan mode",
+            "label": "Plan Mode",
             "slug": "cursor/help/ai-features/plan-mode"
           },
           {
-            "label": "Shared transcripts",
+            "label": "Shared Transcripts",
             "slug": "cursor/help/ai-features/shared-transcripts"
           },
           {
-            "label": "Side chats",
+            "label": "Side Chats",
             "slug": "cursor/help/ai-features/side-chats"
           },
           {
-            "label": "Tab completion",
+            "label": "Tab",
             "slug": "cursor/help/ai-features/tab"
           },
           {
-            "label": "Terminal integration",
+            "label": "Terminal",
             "slug": "cursor/help/ai-features/terminal"
           },
           {
-            "label": "What is vibe coding?",
+            "label": "Vibe Coding",
             "slug": "cursor/help/ai-features/vibe-coding"
           }
         ]
@@ -754,7 +754,7 @@
         "collapsed": true,
         "items": [
           {
-            "label": "@ mentions and context",
+            "label": "Context",
             "slug": "cursor/help/customization/context"
           },
           {
@@ -762,15 +762,15 @@
             "slug": "cursor/help/customization/extensions"
           },
           {
-            "label": "Ignore files",
+            "label": "Ignore Files",
             "slug": "cursor/help/customization/ignore-files"
           },
           {
-            "label": "Keyboard shortcuts",
+            "label": "Keyboard Shortcuts",
             "slug": "cursor/help/customization/keyboard-shortcuts"
           },
           {
-            "label": "MCP integrations",
+            "label": "MCP",
             "slug": "cursor/help/customization/mcp"
           },
           {
@@ -786,7 +786,7 @@
             "slug": "cursor/help/customization/skills"
           },
           {
-            "label": "Themes and appearance",
+            "label": "Themes",
             "slug": "cursor/help/customization/themes"
           }
         ]
@@ -796,23 +796,23 @@
         "collapsed": true,
         "items": [
           {
-            "label": "How do I build an AI coding agent?",
+            "label": "Build AI Coding Agent",
             "slug": "cursor/help/getting-started/build-ai-coding-agent"
           },
           {
-            "label": "Your first project",
+            "label": "First Project",
             "slug": "cursor/help/getting-started/first-project"
           },
           {
-            "label": "Download and install Cursor",
+            "label": "Install",
             "slug": "cursor/help/getting-started/install"
           },
           {
-            "label": "Migrate from JetBrains",
+            "label": "Migrate JetBrains",
             "slug": "cursor/help/getting-started/migrate-jetbrains"
           },
           {
-            "label": "Migrate from VS Code",
+            "label": "Migrate VS Code",
             "slug": "cursor/help/getting-started/migrate-vscode"
           }
         ]
@@ -822,35 +822,35 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Recover Grok Bot computer data",
+            "label": "Computer Recovery",
             "slug": "cursor/help/grok-bot/computer-recovery"
           },
           {
-            "label": "Connect plugins",
+            "label": "Connect Plugins",
             "slug": "cursor/help/grok-bot/connect-plugins"
           },
           {
-            "label": "Get help",
+            "label": "Get Help",
             "slug": "cursor/help/grok-bot/get-help"
           },
           {
-            "label": "Getting started with Grok Bot",
+            "label": "Getting Started",
             "slug": "cursor/help/grok-bot/getting-started"
           },
           {
-            "label": "Grok Bot on mobile",
+            "label": "Mobile",
             "slug": "cursor/help/grok-bot/mobile"
           },
           {
-            "label": "Subscribe from the mobile app",
+            "label": "Mobile Purchase",
             "slug": "cursor/help/grok-bot/mobile-purchase"
           },
           {
-            "label": "Plans and billing",
+            "label": "Plans",
             "slug": "cursor/help/grok-bot/plans"
           },
           {
-            "label": "Store secrets securely",
+            "label": "Secrets",
             "slug": "cursor/help/grok-bot/secrets"
           },
           {
@@ -858,7 +858,7 @@
             "slug": "cursor/help/grok-bot/sign-in"
           },
           {
-            "label": "Link SuperGrok for Grok Bot",
+            "label": "Supergrok Heavy",
             "slug": "cursor/help/grok-bot/supergrok-heavy"
           }
         ]
@@ -876,11 +876,11 @@
             "slug": "cursor/help/integrations/git"
           },
           {
-            "label": "GitHub, GitLab, Azure DevOps, and Bitbucket",
+            "label": "GitHub GitLab",
             "slug": "cursor/help/integrations/github-gitlab"
           },
           {
-            "label": "Linear, Slack, Notion, and other tools",
+            "label": "Third Party",
             "slug": "cursor/help/integrations/third-party"
           }
         ]
@@ -894,7 +894,7 @@
             "slug": "cursor/help/models-and-usage/api-keys"
           },
           {
-            "label": "Available models",
+            "label": "Available Models",
             "slug": "cursor/help/models-and-usage/available-models"
           },
           {
@@ -902,19 +902,19 @@
             "slug": "cursor/help/models-and-usage/cursor-router"
           },
           {
-            "label": "Grok 4.5",
+            "label": "Grok 4 5",
             "slug": "cursor/help/models-and-usage/grok-4-5"
           },
           {
-            "label": "Grok 4.6",
+            "label": "Grok 4 6",
             "slug": "cursor/help/models-and-usage/grok-4-6"
           },
           {
-            "label": "Cursor Token Rate",
+            "label": "Token Rate",
             "slug": "cursor/help/models-and-usage/token-rate"
           },
           {
-            "label": "Usage and limits",
+            "label": "Usage Limits",
             "slug": "cursor/help/models-and-usage/usage-limits"
           }
         ]
@@ -924,27 +924,27 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Compromised account",
+            "label": "Account Compromised",
             "slug": "cursor/help/security-and-privacy/account-compromised"
           },
           {
-            "label": "Security and compliance documents",
+            "label": "Compliance",
             "slug": "cursor/help/security-and-privacy/compliance"
           },
           {
-            "label": "Marketplace security",
+            "label": "Marketplace Security",
             "slug": "cursor/help/security-and-privacy/marketplace-security"
           },
           {
-            "label": "Privacy and data",
+            "label": "Privacy",
             "slug": "cursor/help/security-and-privacy/privacy"
           },
           {
-            "label": "Regions and model availability",
+            "label": "Regions",
             "slug": "cursor/help/security-and-privacy/regions"
           },
           {
-            "label": "SSO and authentication",
+            "label": "SSO",
             "slug": "cursor/help/security-and-privacy/sso"
           }
         ]
@@ -954,19 +954,19 @@
         "collapsed": true,
         "items": [
           {
-            "label": "Agent troubleshooting",
+            "label": "Agent Issues",
             "slug": "cursor/help/troubleshooting/agent-issues"
           },
           {
-            "label": "Extension conflicts",
+            "label": "Extensions",
             "slug": "cursor/help/troubleshooting/extensions"
           },
           {
-            "label": "Installation and startup",
+            "label": "Install Issues",
             "slug": "cursor/help/troubleshooting/install-issues"
           },
           {
-            "label": "Network, proxy, and remote connections",
+            "label": "Network",
             "slug": "cursor/help/troubleshooting/network"
           },
           {
@@ -974,11 +974,11 @@
             "slug": "cursor/help/troubleshooting/performance"
           },
           {
-            "label": "Reporting a bug",
+            "label": "Reporting Bugs",
             "slug": "cursor/help/troubleshooting/reporting-bugs"
           },
           {
-            "label": "How do I troubleshoot Tab completions?",
+            "label": "Tab Issues",
             "slug": "cursor/help/troubleshooting/tab-issues"
           }
         ]
